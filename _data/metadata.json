@@ -1,0 +1,20 @@
+{
+  "title": "Jeremy Knight",
+  "url": "https://www.jeremyknight.me/",
+  "language": "en",
+  "description": "Software Craftsman, Husband, Father",
+  "feed": {
+    "subtitle": "Software Craftsman, Husband, Father",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://www.jeremyknight.me/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://www.jeremyknight.me/feed/feed.json"
+  },
+  "author": {
+    "name": "Jeremy Knight",
+    "url": "https://www.jeremyknight.me/about-me/"
+  }
+}
