@@ -9,37 +9,33 @@
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
     -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.2/dist/superhero/bootstrap.min.css" integrity="sha256-fUcOfFUfW4s+Q+m/wHo3vpovuFVcKiWPd55QXyTQHrU=" crossorigin="anonymous">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
-    <header>
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-
-      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-      <ul class="nav">
-      {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-      {%- endfor %}
-      </ul>
-    </header>
-
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-
-      <!-- Delete this message -->
-      <div class="warning">
-        <ol>
-          <li>Edit the <code>_data/metadata.json</code> with your blog’s information.</li>
-          <li>(Optional) Edit <code>.eleventy.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
-          <li>Delete this message from <code>_includes/layouts/base.njk</code>.</li>
-        </ol>
-        <p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
+      <div class="container">
+        <a class="navbar-brand" href="{{ '/' | url }}">{{ metadata.title }}</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarColor02">
+          <ul class="navbar-nav ms-auto">
+          {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+          {%- for entry in collections.all | eleventyNavigation %}
+            <li class="nav-item">
+              <a class="nav-link{% if entry.url == page.url %} active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}</a>
+            </li>
+          {%- endfor %}
+          </ul>
+        </div>
       </div>
-      <!-- Stop deleting -->
+    </nav>
 
+    <div class="container">
       {{ content | safe }}
-    </main>
+    </div>
 
     <footer></footer>
 
