@@ -22,63 +22,62 @@ When I couldn't find an ASP.NET Form menu control that was compatible with Boots
 
 Here's the HTML markup view:
 
-\[sourcecode language="xml"\]
-&amp;amp;lt;div class="navbar navbar-inverse navbar-static-top" role="navigation"&amp;amp;gt;
-    &amp;amp;lt;div class="container" style="padding: 0; margin: 0;"&amp;amp;gt;
-        &amp;amp;lt;div class="navbar-header"&amp;amp;gt;
-            &amp;amp;lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"&amp;amp;gt;
-                &amp;amp;lt;span class="sr-only"&amp;amp;gt;Toggle navigation&amp;amp;lt;/span&amp;amp;gt;
-                &amp;amp;lt;span class="icon-bar"&amp;amp;gt;&amp;amp;lt;/span&amp;amp;gt;
-                &amp;amp;lt;span class="icon-bar"&amp;amp;gt;&amp;amp;lt;/span&amp;amp;gt;
-                &amp;amp;lt;span class="icon-bar"&amp;amp;gt;&amp;amp;lt;/span&amp;amp;gt;
-            &amp;amp;lt;/button&amp;amp;gt;
-        &amp;amp;lt;/div&amp;amp;gt;
-        &amp;amp;lt;div class="navbar-collapse collapse"&amp;amp;gt;
-            &amp;amp;lt;jk:BootstrapMenu ID="BootstrapMenu1" runat="server"&amp;amp;gt;
-                &amp;amp;lt;Items&amp;amp;gt;
-                    &amp;amp;lt;asp:MenuItem Text="Home" NavigateUrl="#" /&amp;amp;gt;
-                    &amp;amp;lt;asp:MenuItem Text="About" NavigateUrl="#" /&amp;amp;gt;
-                    &amp;amp;lt;asp:MenuItem Text="Contact" NavigateUrl="#" /&amp;amp;gt;
-                    &amp;amp;lt;asp:MenuItem Text="Drop Down"&amp;amp;gt;
-                        &amp;amp;lt;asp:MenuItem Text="Action" NavigateUrl="#" /&amp;amp;gt;
-                        &amp;amp;lt;asp:MenuItem Text="Another action" NavigateUrl="#" /&amp;amp;gt;
-                        &amp;amp;lt;asp:MenuItem Text="Something else here" NavigateUrl="#" /&amp;amp;gt;
-                    &amp;amp;lt;/asp:MenuItem&amp;amp;gt;
-                    &amp;amp;lt;asp:MenuItem Text="Help" NavigateUrl="#" /&amp;amp;gt;
-                    &amp;amp;lt;asp:MenuItem Text="Nothing" /&amp;amp;gt;
-                &amp;amp;lt;/Items&amp;amp;gt;
-            &amp;amp;lt;/jk:BootstrapMenu&amp;amp;gt;
-        &amp;amp;lt;/div&amp;amp;gt;&amp;amp;lt;!--/.nav-collapse --&amp;amp;gt;
-    &amp;amp;lt;/div&amp;amp;gt;
-&amp;amp;lt;/div&amp;amp;gt;
-\[/sourcecode\]
+``` aspnet
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+    <div class="container" style="padding: 0; margin: 0;">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse">
+            <jk:BootstrapMenu ID="BootstrapMenu1" runat="server" HighlightActive="True">
+                <Items>
+                    <asp:MenuItem Text="Link" NavigateUrl="#" />
+                    <asp:MenuItem Text="Link" NavigateUrl="#" />
+                    <asp:MenuItem Text="Drop Down">
+                        <asp:MenuItem Text="Link" NavigateUrl="#" />
+                        <asp:MenuItem Text="Link" NavigateUrl="#" />
+                        <asp:MenuItem Text="Link" NavigateUrl="#" />
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Link" NavigateUrl="#" />
+                    <asp:MenuItem Text="Nothing" />
+                </Items>
+            </jk:BootstrapMenu>
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+```
 
 Here's the HTML markup view for using with a SiteMapDataSource:
 
-\[sourcecode language="xml"\]
-&amp;amp;lt;div class="navbar navbar-inverse navbar-static-top" role="navigation"&amp;amp;gt;
-    &amp;amp;lt;div class="container" style="padding: 0; margin: 0;"&amp;amp;gt;
-        &amp;amp;lt;div class="navbar-header"&amp;amp;gt;
-            &amp;amp;lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"&amp;amp;gt;
-                &amp;amp;lt;span class="sr-only"&amp;amp;gt;Toggle navigation&amp;amp;lt;/span&amp;amp;gt;
-                &amp;amp;lt;span class="icon-bar"&amp;amp;gt;&amp;amp;lt;/span&amp;amp;gt;
-                &amp;amp;lt;span class="icon-bar"&amp;amp;gt;&amp;amp;lt;/span&amp;amp;gt;
-                &amp;amp;lt;span class="icon-bar"&amp;amp;gt;&amp;amp;lt;/span&amp;amp;gt;
-            &amp;amp;lt;/button&amp;amp;gt;
-        &amp;amp;lt;/div&amp;amp;gt;
-        &amp;amp;lt;div class="navbar-collapse collapse"&amp;amp;gt;
-            &amp;amp;lt;jk:BootstrapMenu ID="BootstrapMenu2" runat="server" DataSourceId="SiteMapDataSource1" /&amp;amp;gt;
-            &amp;amp;lt;asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="False" /&amp;amp;gt;
-        &amp;amp;lt;/div&amp;amp;gt;&amp;amp;lt;!--/.nav-collapse --&amp;amp;gt;
-    &amp;amp;lt;/div&amp;amp;gt;
-&amp;amp;lt;/div&amp;amp;gt;
-\[/sourcecode\]
+``` aspnet
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+    <div class="container" style="padding: 0; margin: 0;">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse">
+            <jk:BootstrapMenu ID="BootstrapMenu2" runat="server" DataSourceId="SiteMapDataSource1" />
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="False" />
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+```
 
 In either case you'll need a page directive
 
-\[sourcecode language="xml"\]
-&amp;amp;lt;%@ Register tagPrefix="jk" assembly="JK.Core.Web" namespace="JK.Core.Web.Controls" %&amp;amp;gt;
-\[/sourcecode\]
+``` aspnet
+<%@ Register TagPrefix="jk" Namespace="JK.BootstrapControls" Assembly="JK.BootstrapControls" %>
+```
 
 Updates:
 

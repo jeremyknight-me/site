@@ -17,4 +17,4 @@ Visual Studio Tips and Tricks was a topic in our local user group a while back. 
 
 The debugging video below is part 2 of this video series:
 
-\[embed\]https://www.youtube.com/watch?v=ShBTcmTyiZY\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ShBTcmTyiZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

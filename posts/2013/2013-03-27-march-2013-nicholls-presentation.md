@@ -22,7 +22,7 @@ The general Visual Studio Tips and Tricks information can be found in my video l
 
 Here is a list of resources for anyone that would like to do additional reading and/or research:
 
-ASP.NET
+<span>ASP.NET</span>
 
 - Official Site: [http://www.asp.net/](http://www.asp.net/)
 - Wikipedia: [http://en.wikipedia.org/wiki/ASP.NET](http://en.wikipedia.org/wiki/ASP.NET)
@@ -39,7 +39,7 @@ Entity Framework
 - MSDN: [http://msdn.microsoft.com/en-us/data/ef.aspx](http://msdn.microsoft.com/en-us/data/ef.aspx)
 - Wikipedia: [http://en.wikipedia.org/wiki/ADO.NET\_Entity\_Framework](http://en.wikipedia.org/wiki/ADO.NET_Entity_Framework)
 
-ASP.NET AJAX Control Toolkit
+<span>ASP.NET</span> AJAX Control Toolkit
 
 - CodePlex Project: [http://ajaxcontroltoolkit.codeplex.com/](http://ajaxcontroltoolkit.codeplex.com/)
 - Sample Site: [http://www.asp.net/ajaxlibrary/AjaxControlToolkitSampleSite/](http://www.asp.net/ajaxlibrary/AjaxControlToolkitSampleSite/)
