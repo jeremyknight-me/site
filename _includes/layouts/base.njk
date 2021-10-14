@@ -7,14 +7,15 @@
     <meta name="description" content="{{ description or metadata.description }}">
     <!--
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
     -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.2/dist/superhero/bootstrap.min.css" integrity="sha256-fUcOfFUfW4s+Q+m/wHo3vpovuFVcKiWPd55QXyTQHrU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.25.0/themes/prism.css" integrity="sha256-h/qtq9bUnXbOOwP4EcbLtYM9Mk3iQQcHZAZ+Jz5y0WQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/lux/bootstrap.min.css" integrity="sha256-WW13HpaaG94O2RHAP6ZIIEcijhqdeYjh3FkqE7zgMbY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css" integrity="sha256-xI9svxPNgINGMuNc6T4pgY5QN385llAJtoyzuf3rcbI=" crossorigin="anonymous">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="{{ '/' | url }}">{{ metadata.title }}</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,7 +38,37 @@
       {{ content | safe }}
     </div>
 
-    <footer></footer>
+    <footer class="container bg-dark mb-0 mt-3 py-3">
+      <div class="row">
+        <div class="col text-center">
+          <a href="#" class="text-white px-2"><i class="bi bi-github fs-2"></i></a>
+          <a href="#" class="text-white px-2"><i class="bi bi-linkedin fs-2"></i></a>
+          <a href="#" class="text-white px-2"><i class="bi bi-twitter fs-2"></i></a>
+          <a href="#" class="text-white px-2"><i class="bi bi-instagram fs-2"></i></a>
+          <a href="#" class="text-white px-2"><i class="bi bi-youtube fs-2"></i></a>
+        </div>
+      </div>
+    </footer>
+
+    <footer class="container bg-primary text-white my-0 py-3">
+      <div class="row">
+        <div class="col-md-4">
+          footer 1
+        </div>
+        <div class="col-md-4">
+          footer 2
+        </div>
+        <div class="col-md-4">
+          <h4 class="text-white">Tags</h4>
+          <div>
+            {% for tag in collections.tagList %}
+              {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+              <a href="{{ tagUrl | url }}" title="{{ tag }}"><span class="badge bg-dark">{{ tag }}</span></a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
 

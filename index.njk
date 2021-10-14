@@ -4,11 +4,15 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+
+<div class="mb-3 p-3" style="background: #efefef;">
+  <h4 class="text-center py-3">{{ metadata.description }}</h4>
+  {% include "blurb-about.njk" %}
+</div>
+
 {% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<h1>Latest Posts <a href="{{ '/posts/' | url }}" class="text-muted fs-6">Archive</a></h1>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
-
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
