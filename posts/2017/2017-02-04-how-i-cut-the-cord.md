@@ -17,9 +17,8 @@ We already had Netflix, Amazon, etc. for streaming content but local channels w
 
 ### The Antenna
 
-<img src="../img/2017-attic-antenna.jpg" alt="" class="w-100" />
-
-*The strip of wood pictured has been replaced by 1 inch PVC so that the entire antenna can be pointed in the right direction.*
+<img src="../../../img/posts/2017/attic-antenna.jpg" alt="" class="img-fluid">
+<div class="text-center"><em>The strip of wood pictured has been replaced by 1 inch PVC so that the entire antenna can be pointed in the right direction.</em></div>
 
 The first thing you will want to check is a site like [TV Fool](http://tvfool.com/) ([www.tvfool.com](http://tvfool.com/)) to ensure you have over the air near you. Visit the site and input your address and it will output a list of the channels near you color coded by the type of antenna you'll need. For TV Fool, green means an indoor or set top antenna will work. Yellow means you'll probably need at least an attic mounted antenna. Red means you'll need a roof mounted antenna and grey means you're probably out of luck.
 
@@ -31,7 +30,7 @@ If you don't want a DVR, you'll need a coax splitter and coax cable runs to each
 
 ### The DVR System
 
-<img src="../img/2017-tablo.jpg" alt="" class="w-100" />
+<img src="../../../img/posts/2017/tablo.jpg" alt="" class="img-fluid">
 
 For the DVR, we decided on a 4-tuner Tablo TV DVR ([https://www.tablotv.com/](https://www.tablotv.com/)) which allows recording up to 4 shows at a time. The Tablo requires a single coax run from the antenna to the Tablo and an external hard drive. To help you select a hard drive, their website has both a [suggestions page](https://www.tablotv.com/blog/tablo-usb-hard-drive-specifications-suggestions/) and a [community driven thread](https://community.tablotv.com/t/tested-hard-drives/130) to ensure you buy a hard drive that will work with the system. If you want to grab the drive that we purchased, it's a [3TB Seagate](https://www.amazon.com/gp/product/B00TKFEEJ4/) ([https://www.amazon.com/gp/product/B00TKFEEJ4/](https://www.amazon.com/gp/product/B00TKFEEJ4/)). I doubt we'll ever fill the drive but it gives us the ability to save movies and TV shows for as long as we want.
 
