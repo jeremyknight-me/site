@@ -15,11 +15,34 @@ Some time ago I found myself needing to format the data within a dataset. I thou
 
 Here's the fPadRight function:
 
-\[sourcecode language="sql" wraplines="false"\] CREATE FUNCTION fPadRight ( @OrigString VARCHAR(MAX) = NULL, @PadLength INT = 0, @PadChar CHAR(1) = '' ) RETURNS VARCHAR(MAX) AS BEGIN DECLARE @Result VARCHAR(MAX); DECLARE @OrigLength INT;
-
-SET @OrigLength = LEN(@OrigString); IF (@OrigLength >= @PadLength) BEGIN SET @Result = @OrigString END ELSE BEGIN SET @Result = @OrigString + REPLICATE(@PadChar, @PadLength - @OrigLength); END
-
-RETURN @Result END GO \[/sourcecode\]
+``` csharp
+CREATE FUNCTION fPadRight 
+(
+    @OrigString VARCHAR(MAX) = NULL,
+    @PadLength INT = 0,
+    @PadChar CHAR(1) = ''
+)
+RETURNS VARCHAR(MAX)
+AS
+BEGIN
+    DECLARE @Result VARCHAR(MAX); 
+    DECLARE @OrigLength INT;
+ 
+    SET @OrigLength = LEN(@OrigString);
+     
+    IF (@OrigLength >= @PadLength)
+    BEGIN
+        SET @Result = @OrigString
+    END
+    ELSE
+    BEGIN
+        SET @Result =  @OrigString + REPLICATE(@PadChar, @PadLength - @OrigLength);
+    END
+ 
+    RETURN @Result
+END
+GO
+```
 
 The entire scripts, including if exists logic, are included in the following links:
 

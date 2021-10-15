@@ -25,7 +25,7 @@ The following steps will add a "Get Public Key' option to your Tools menu in Vis
 - Select 'Use Output window' checkbox
 - Click 'OK'
 
-[![External Tools screenshot](images/external-tools.png "External Tools screenshot")](http://jeremyknight.files.wordpress.com/2010/11/external-tools.png)
+<img src="../../../img/posts/2010/external-tools.png" alt="" class="img-fluid">
 
 This will save you a ton of time if you are still using tools like Reflector to get the public key.
 

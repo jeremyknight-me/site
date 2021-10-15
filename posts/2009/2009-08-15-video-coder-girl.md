@@ -7,6 +7,6 @@ tags:
   - "video"
 ---
 
-\[youtube=http://www.youtube.com/watch?v=B-m6JDYRFvk\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B-m6JDYRFvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This will give all of my coding brethren a good laugh.

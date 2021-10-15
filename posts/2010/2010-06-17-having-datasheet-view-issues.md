@@ -19,6 +19,6 @@ Our team recently upgraded the software on our equipment and Office 2010 64-bit 
 
 Why? The datasheet view uses a 32-bit ActiveX control. Internet Explorer 64-bit disables the datasheet view and without a 32-bit Office install IE 32-bit will give the following error:
 
-[![](images/error.jpg "SharePoint Datasheet View Error")](http://jeremyknight.files.wordpress.com/2010/06/error.jpg)
+<img src="../../../img/posts/2010/error.jpg" alt="" class="img-fluid">
 
 Don't fret though. There will be no need to downgrade to a 32-bit version of Office. This problem can be fixed by installing the [2007 Office System Driver: Data Connectivity Components](http://www.microsoft.com/downloads/details.aspx?familyid=7554F536-8C28-4598-9B72-EF94E038C891&displaylang=en "2007 Office System Driver: Data Connectivity Components"). Once the downloaded AccessDatabaseEngine.exe is installed, the datasheet functionality should work in both SharePoint 2007 and SharePoint 2010.
