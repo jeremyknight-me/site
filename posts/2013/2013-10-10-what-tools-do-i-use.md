@@ -31,7 +31,7 @@ For voice, we use [Skype](http://www.skype.com "Skype"). It's simple, effective,
 
 **Let's Develop Something Already!**
 
-I have already mentioned that I work in a Microsoft development team so Visual Studio is a must. I currently have 2010 and 2012 installed on my machine but we will be moving everything to 2013 on its release. If you'd like to know which plugins I'm using for Visual Studio, see my post "[Visual Studio Add-ons](http://jeremyknight.wordpress.com/2011/08/26/visual-studio-add-ons/ "Visual Studio Add-ons")".
+I have already mentioned that I work in a Microsoft development team so Visual Studio is a must. I currently have 2010 and 2012 installed on my machine but we will be moving everything to 2013 on its release. If you'd like to know which plugins I'm using for Visual Studio, see my post "[Visual Studio Add-ons](../../2011/2011-08-26-visual-studio-add-ons/ "Visual Studio Add-ons")".
 
 Everyone has their own favorite text editor and mine is [Notepad++](http://notepad-plus-plus.org/ "NotePad++"). It's always the first thing that I install on a new machine and I immediately set it as my default text viewer. I've recommended it to every developer friend that I know. It has lots of goodies throughout the program including plugins. For example, the Compare plugin has taken the place of WinMerge on my machines and ToolBucket let's me easily generate GUIDs and lorem ipsum, encode/decode to base 64, and more.
 

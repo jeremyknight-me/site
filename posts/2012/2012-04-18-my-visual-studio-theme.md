@@ -22,4 +22,6 @@ And remember to rate it if you like it!
 
 Now a bonus for those of you that use ReSharper. The following line pasted into the bottom of the items section in the XML downloaded from the site before you import will make those To Do Comments and Not Implemented Exceptions stand out.
 
-\[sourcecode language="xml"\]<Item Name="ReSharper Todo Item" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="Yes"/>\[/sourcecode\]
+``` markup
+<Item Name="ReSharper Todo Item" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="Yes"/>
+```
