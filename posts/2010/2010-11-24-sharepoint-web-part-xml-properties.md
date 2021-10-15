@@ -12,7 +12,40 @@ tags:
 
 When building a web part for SharePoint, you can use the .webpart file to set default values for almost all of the properties of that web part. But many people don't know what those properties are or what they pertain to. Below is a listing of all the properties of an empty web part:
 
-\[sourcecode language="xml" wraplines="false"\] <webParts> <webPart xmlns="http://schemas.microsoft.com/WebPart/v3"> <metaData> <type name=yourTypeHere" /> <importErrorMessage>Cannot import this Web Part.</importErrorMessage> </metaData> <data> <properties> <property name="AllowClose" type="bool">True</property> <property name="AllowConnect" type="bool">True</property> <property name="AllowEdit" type="bool">True</property> <property name="AllowHide" type="bool">True</property> <property name="AllowMinimize" type="bool">True</property> <property name="AllowZoneChange" type="bool">True</property> <property name="CatalogIconImageUrl" type="string" /> <property name="ChromeState" type="chromestate">Normal</property> <property name="ChromeType" type="chrometype">Default</property> <property name="Description" type="string">My WebPart</property> <property name="Direction" type="direction">NotSet</property> <property name="ExportMode" type="exportmode">All</property> <property name="Height" type="unit" /> <property name="HelpMode" type="helpmode">Navigate</property> <property name="HelpUrl" type="string" /> <property name="Hidden" type="bool">False</property> <property name="Title" type="string">Web Part Title</property> <property name="TitleIconImageUrl" type="string" /> <property name="TitleUrl" type="string" /> <property name="Width" type="unit" /> </properties> </data> </webPart> </webParts> \[/sourcecode\]
+``` markup
+<webParts>
+    <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+        <metaData>
+            <type name="yourTypeHere" />
+            <importErrorMessage>Cannot import this Web Part.</importErrorMessage>
+        </metaData>
+        <data>
+            <properties>
+                <property name="AllowClose" type="bool">True</property>
+                <property name="AllowConnect" type="bool">True</property>
+                <property name="AllowEdit" type="bool">True</property>
+                <property name="AllowHide" type="bool">True</property>
+                <property name="AllowMinimize" type="bool">True</property>
+                <property name="AllowZoneChange" type="bool">True</property>
+                <property name="CatalogIconImageUrl" type="string" />
+                <property name="ChromeState" type="chromestate">Normal</property>
+                <property name="ChromeType" type="chrometype">Default</property>
+                <property name="Description" type="string">My WebPart</property>
+                <property name="Direction" type="direction">NotSet</property>
+                <property name="ExportMode" type="exportmode">All</property>
+                <property name="Height" type="unit" />
+                <property name="HelpMode" type="helpmode">Navigate</property>
+                <property name="HelpUrl" type="string" />
+                <property name="Hidden" type="bool">False</property>
+                <property name="Title" type="string">Web Part Title</property>
+                <property name="TitleIconImageUrl" type="string" />
+                <property name="TitleUrl" type="string" />
+                <property name="Width" type="unit" />
+            </properties>
+        </data>
+    </webPart>
+</webParts>
+```
 
 For a definition and list of possible values for each of these properties, you can visit the MSDN pages for:
 

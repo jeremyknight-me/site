@@ -17,23 +17,58 @@ The examples below show how the null coalescing operator achieves the same resul
 
 **Reference Examples with Conditional Statements**
 
-\[sourcecode language="csharp"\] public MyObject MyObjectProperty { get { if (this.myObject == null) { return new MyObject(); }
-
-return this.myObject; } } \[/sourcecode\]
+``` csharp
+public MyObject MyObjectProperty
+{
+    get
+    {
+        if (this.myObject == null)
+        {
+            return new MyObject();
+        }
+ 
+        return this.myObject;
+    }
+}
+```
 
 **Reference Examples with Null Coalescing Operator**
 
-\[sourcecode language="csharp"\] public MyObject MyObjectProperty { get { return this.myObject ?? new MyObject(); } } \[/sourcecode\]
+``` csharp
+public MyObject MyObjectProperty
+{
+    get
+    {
+        return this.myObject ?? new MyObject();
+    }
+}
+```
 
 **Nullable<T> Example with Conditional Statements**
 
-\[sourcecode language="csharp"\] public int Number { get { if (this.nullableNumber.HasValue) { return this.nullableNumber.Value; }
-
-return 0; } } \[/sourcecode\]
+``` csharp
+public int Number
+{
+    get
+    {
+        if (this.nullableNumber.HasValue)
+        {
+            return this.nullableNumber.Value;
+        }
+ 
+        return 0;
+    }
+}
+```
 
 **Nullable<T> Example with Null Coalescing Operator**
 
-\[sourcecode language="csharp"\] public int Number { get { return this.nullableNumber ?? 0; } } \[/sourcecode\]
+``` csharp
+public int Number
+{
+    get { return this.nullableNumber ?? 0; }
+}
+```
 
 The main argument against the ?? operator is that developers don't understand it so it makes the code less readable and maintainable. This is a poor argument in my opinion. As developers, we should never stop trying to improve both ourselves and our teams. This is something that can be taught over lunch one day.
 

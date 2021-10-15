@@ -49,7 +49,7 @@ Links:
 
 (Note: This is built into VS 2012 and beyond) How and why the functionality of this gallery extension isn't built into Visual Studio completely baffles me. This simple extension adds a search box to the top of the .Net tab on the Add References dialog.
 
-[![](images/search-references.png "search-references")](http://jeremyknight.files.wordpress.com/2011/08/search-references.png)
+<img src="../../../img/posts/2011/search-references.png" alt="" class="mx-auto d-block">
 
 Links:
 
@@ -61,7 +61,7 @@ If you write code that is structurally the same over and over again, you should 
 
 Here is a screenshot of Snippet Designer being used to edit my null coalescing operator snippet.
 
-[![](images/snippet-designer.png "snippet-designer")](http://jeremyknight.files.wordpress.com/2011/08/snippet-designer.png)
+<img src="../../../img/posts/2011/snippet-designer.png" alt="" class="mx-auto d-block">
 
 Links:
 
