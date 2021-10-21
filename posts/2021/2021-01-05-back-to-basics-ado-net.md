@@ -5,7 +5,7 @@ date: "2021-01-05"
 categories: 
   - "presentations"
 tags: 
-  - "net"
+  - "dotnet"
   - "ado-net"
   - "baton-rouge"
   - "entity-framework"

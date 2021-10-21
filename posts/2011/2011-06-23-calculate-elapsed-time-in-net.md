@@ -5,7 +5,7 @@ date: "2011-06-23"
 categories: 
   - "development"
 tags: 
-  - "net"
+  - "dotnet"
   - "code"
   - "stopwatch"
 ---

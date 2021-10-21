@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "Project Changes"
 date: "2011-04-20"
 tags: 
-  - "net"
+  - "dotnet"
   - "code-snippet"
   - "microsoft"
   - "visual-studio"

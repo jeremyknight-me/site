@@ -5,9 +5,9 @@ date: "2017-01-24"
 categories: 
   - "development"
 tags: 
-  - "net"
-  - "asp-net"
-  - "asp-net-forms"
+  - "dotnet"
+  - "aspnet"
+  - "aspnet-forms"
   - "bootstrap"
   - "code"
   - "html5"

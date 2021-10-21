@@ -5,7 +5,7 @@ date: "2010-10-21"
 categories: 
   - "development"
 tags: 
-  - "net"
+  - "dotnet"
   - "microsoft"
   - "sharepoint"
 ---

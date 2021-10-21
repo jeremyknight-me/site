@@ -5,7 +5,7 @@ date: "2010-07-02"
 categories: 
   - "development"
 tags: 
-  - "net"
+  - "dotnet"
   - "code"
   - "infopath"
   - "sharepoint"

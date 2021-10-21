@@ -5,7 +5,7 @@ date: "2012-04-18"
 categories: 
   - "community-events"
 tags: 
-  - "net"
+  - "dotnet"
   - "baton-rouge"
   - "louisiana"
   - "microsoft"

@@ -5,8 +5,8 @@ date: "2015-01-30"
 categories: 
   - "development"
 tags: 
-  - "net"
-  - "asp-net"
+  - "dotnet"
+  - "aspnet"
   - "code-snippet"
   - "security"
   - "web"

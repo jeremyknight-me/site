@@ -5,8 +5,8 @@ date: "2011-01-04"
 categories: 
   - "personal"
 tags: 
-  - "net"
-  - "asp-net"
+  - "dotnet"
+  - "aspnet"
   - "certifications"
   - "microsoft"
 ---

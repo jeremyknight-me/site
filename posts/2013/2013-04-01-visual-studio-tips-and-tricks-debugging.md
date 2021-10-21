@@ -6,7 +6,7 @@ categories:
   - "development"
   - "presentations"
 tags: 
-  - "net"
+  - "dotnet"
   - "debug"
   - "microsoft"
   - "video"

@@ -1,16 +1,20 @@
 ---
-layout: layouts/home.njk
+layout: layouts/page.njk
+title: Blog
 permalink: /posts/
 eleventyNavigation:
   key: Blog
   order: 2
 ---
 
-<article class="mt-3">
+<form>
+  <label for="blog-search" class="form-label visually-hidden">Search</label>
+  <input type="search" class="form-control" id="blog-search" placeholder="Search post titles or tags">
+</form>
 
-  <h1>Blog</h1>
-  <hr>
+<div id="blog-list" class="mt-3">
   {% set postslist = collections.posts %}
   {% include "postslist.njk" %}
+</div>
 
-</article>
+<script src="{{ "/js/blog.js" | url }}"></script>

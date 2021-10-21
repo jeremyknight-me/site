@@ -5,8 +5,8 @@ date: "2013-03-27"
 categories: 
   - "presentations"
 tags: 
-  - "net"
-  - "asp-net"
+  - "dotnet"
+  - "aspnet"
   - "visual-studio"
 ---
 

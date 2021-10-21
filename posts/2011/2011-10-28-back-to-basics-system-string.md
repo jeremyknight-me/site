@@ -5,7 +5,7 @@ date: "2011-10-28"
 categories: 
   - "development"
 tags: 
-  - "net"
+  - "dotnet"
   - "code"
   - "string"
 ---

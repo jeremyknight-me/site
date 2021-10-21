@@ -5,7 +5,7 @@ date: "2010-11-12"
 categories: 
   - "presentations"
 tags: 
-  - "asp-net"
+  - "aspnet"
   - "sharepoint"
   - "web-part"
 ---

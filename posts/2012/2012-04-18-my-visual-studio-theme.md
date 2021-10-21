@@ -5,7 +5,7 @@ date: "2012-04-18"
 categories: 
   - "development"
 tags: 
-  - "net"
+  - "dotnet"
   - "customization"
   - "resharper"
   - "software"

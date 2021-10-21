@@ -5,7 +5,7 @@ date: "2010-11-13"
 categories: 
   - "development"
 tags: 
-  - "net"
+  - "dotnet"
   - "code"
   - "sharepoint"
   - "web-part"

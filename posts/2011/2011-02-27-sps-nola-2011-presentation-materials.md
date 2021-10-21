@@ -6,7 +6,7 @@ categories:
   - "community-events"
   - "presentations"
 tags: 
-  - "asp-net"
+  - "aspnet"
   - "microsoft"
   - "new-orleans"
   - "sharepoint"

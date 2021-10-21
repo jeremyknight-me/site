@@ -5,7 +5,7 @@ date: "2013-05-02"
 categories: 
   - "development"
 tags: 
-  - "net"
+  - "dotnet"
   - "code"
   - "design-pattern"
   - "strategy-pattern"
