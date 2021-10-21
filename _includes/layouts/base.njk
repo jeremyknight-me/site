@@ -5,16 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
-    <!--
-    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
-    -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.2/dist/superhero/bootstrap.min.css" integrity="sha256-fUcOfFUfW4s+Q+m/wHo3vpovuFVcKiWPd55QXyTQHrU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.25.0/themes/prism-coy.css" integrity="sha256-0I7KRu3ythnGB35kGsiGUugMkxcKhiBPrucGSiUwMZA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/lux/bootstrap.min.css" integrity="sha256-WW13HpaaG94O2RHAP6ZIIEcijhqdeYjh3FkqE7zgMbY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css" integrity="sha256-xI9svxPNgINGMuNc6T4pgY5QN385llAJtoyzuf3rcbI=" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ '/css/site.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="{{ '/' | url }}">{{ metadata.title }}</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,11 +21,12 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarColor02">
           <ul class="navbar-nav ms-auto">
-          {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
           {%- for entry in collections.all | eleventyNavigation %}
+            {%- if not entry.parentKey -%}
             <li class="nav-item">
               <a class="nav-link{% if entry.url == page.url %} active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}</a>
             </li>
+            {%- endif -%}
           {%- endfor %}
           </ul>
         </div>
@@ -37,7 +37,55 @@
       {{ content | safe }}
     </div>
 
-    <footer></footer>
+    <footer class="container-fluid bg-dark mb-0 mt-3 py-3">
+      <div class="row">
+        <div class="col text-center">
+          <a href="https://github.com/jeremyknight-me/" class="text-white px-2" target="_blank"><i class="bi bi-github fs-2"></i></a>
+          <a href="https://www.linkedin.com/in/jeremyknight-me/" class="text-white px-2" target="_blank"><i class="bi bi-linkedin fs-2"></i></a>
+          <a href="https://twitter.com/jeremyknight_me/" class="text-white px-2" target="_blank"><i class="bi bi-twitter fs-2"></i></a>
+          <a href="https://www.instagram.com/jeremyknight_me/" class="text-white px-2" target="_blank"><i class="bi bi-instagram fs-2"></i></a>
+          <a href="https://www.youtube.com/channel/UC8FicoH5UZFzqBJGfCZrUSA" class="text-white px-2" target="_blank"><i class="bi bi-youtube fs-2"></i></a>
+        </div>
+      </div>
+    </footer>
+
+    <footer class="container-fluid bg-primary text-white my-0 py-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h4 class="text-white">Jeremy Knight</h4>
+            <a href="https://ko-fi.com/jeremyknight" target="_blank"><img src="{{ '/img/buy-me-a-coffee.png' | url }}" alt="buy me a coffee" class="w-100"></a>
+            <h5 class="text-white mt-3">Pages</h5>
+            <div class="d-grid gap-2 mb-3">
+              <a class="btn btn-dark" href="{{ '/about/' | url }}">About</a>
+              <a class="btn btn-dark" href="{{ '/recommendations/' | url }}">Recommendations</a>
+            </div>
+            <h5 class="text-white">Links</h5>
+            <div class="d-grid gap-2">
+              <a class="btn btn-dark" target="_blank" href="https://www.brdnug.org">Baton Rouge .NET User Group</a>
+              <a class="btn btn-dark" target="_blank" href="https://www.htdnug.org">Houma-Thibodaux .NET User Group</a>
+            </div>
+            <div>
+              {% for tag in collections.categoryList %}
+                {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                <a href="{{ tagUrl | url }}" title="{{ tag }}"><span class="badge bg-dark">{{ tag }}</span></a>
+              {% endfor %}
+            </div>
+          </div>
+          <div class="col-md-4">
+            <h4 class="text-white">Tags <a href="{{ '/tags/' | url }}" class="text-muted fs-6">All</a></h4>
+            {% for tag, count in collections.tagsByCount %}
+              {% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
+              <a href="{{ tagUrl | url }}" title="{{ tag }} ({{ count }})"><span class="badge bg-dark">{{ tag }}</span></a>
+            {% endfor %}
+          </div>
+          <div class="col-md-4">
+            <h4 class="text-white">Twitter</h4>
+            <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/jeremyknight_me?ref_src=twsrc%5Etfw">Tweets by jeremyknight_me</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
 
