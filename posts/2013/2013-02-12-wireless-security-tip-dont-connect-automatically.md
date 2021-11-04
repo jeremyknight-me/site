@@ -13,7 +13,7 @@ I have a quick tip that will exponentially increase your laptop, tablet, or even
 
 You can blame hidden wireless networks for this gaping security hole. The How-To Geek has a really good [article](http://www.howtogeek.com/howto/28653/debunking-myths-is-hiding-your-wireless-ssid-really-more-secure/ "Debunking Myths: Is Hiding Your Wireless SSID Really More Secure?") explaining why you shouldn't use hidden wireless networks.
 
-**Why should I turn off these convenience features?**
+<h3>Why should I turn off these convenience features?</h3>
 
 When you use the auto connect features of WiFi, your device will seek out the wireless connection. In the process of seeking out the connection, it also broadcasts the connection information. Devices such as WiFi Pineapples can be built to scan for the broadcasts coming from your devices. Once it has found a device, it automatically configures a matching connection and allows you to connect. Once you're connected, your internet traffic can be monitored.
 

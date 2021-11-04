@@ -18,7 +18,7 @@ tags:
 
 I've been getting the same question a lot lately. What plugins, enhancements, extensions, etc. do you use in Visual Studio? So here's the surprisingly short list:
 
-# ReSharper
+<h3>ReSharper</h3>
 
 The ReSharper website says:
 
@@ -31,7 +31,7 @@ Links:
 - [Official Site](http://www.jetbrains.com/resharper/ "Official ReSharper Site")
 - [MSDN VS Gallery: ReSharper](http://visualstudiogallery.msdn.microsoft.com/EA4AC039-1B5C-4D11-804E-9BEDE2E63ECF?SRC=Home "MSDN VS Gallery: ReSharper")
 
-# StyleCop
+<h3>StyleCop</h3>
 
 The official product description reads:
 
@@ -45,7 +45,7 @@ Links:
 
 - [Official Site](http://stylecop.codeplex.com/ "Official StyleCop Site")
 
-# Search References
+<h3>Search References</h3>
 
 (Note: This is built into VS 2012 and beyond) How and why the functionality of this gallery extension isn't built into Visual Studio completely baffles me. This simple extension adds a search box to the top of the .Net tab on the Add References dialog.
 
@@ -55,7 +55,7 @@ Links:
 
 - [MSDN VS Gallery: Search References](http://visualstudiogallery.msdn.microsoft.com/02c0bded-4739-40ec-af07-9eb002a27246/ "MSDN VS Gallery: Search References")
 
-# Snippet Designer
+<h3>Snippet Designer</h3>
 
 If you write code that is structurally the same over and over again, you should learn to build snippets. If you want to build snippets, you want to take a look at this extension. Snippet Designer allows you to highlight code and export as snippet. It has a great GUI for adding in replacement sections, setting the properties of your snippet, etc.
 

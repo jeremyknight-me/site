@@ -14,11 +14,11 @@ This post will contain the information from my presentation at Nicholls State Un
 
 Code: [https://github.com/knight0323/presentations/tree/master/nsu-2013-03](https://github.com/knight0323/presentations/tree/master/nsu-2013-03) Slides: [https://docs.com/knight0323/2320/nicholls-dev-presentation-march-2013](https://docs.com/knight0323/2320/nicholls-dev-presentation-march-2013)
 
-**Presentation Information**
+<h3>Presentation Information</h3>
 
 The general Visual Studio Tips and Tricks information can be found in my video linked below. I will be creating a Debugging Tips and Tricks video soon. [http://jeremyknight.wordpress.com/2013/03/18/visual-studio-tips-and-tricks/](http://jeremyknight.wordpress.com/2013/03/18/visual-studio-tips-and-tricks/)
 
-**Additional Reading Resources**
+<h3>Additional Reading Resources</h3>
 
 Here is a list of resources for anyone that would like to do additional reading and/or research:
 

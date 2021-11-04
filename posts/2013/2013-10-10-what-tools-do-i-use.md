@@ -11,7 +11,7 @@ tags:
 
 At Houston TechFest 2013, Claudio Lassala presented "[Want to Build Software? Get Your Act Together First!](http://lassala.net/2013/10/03/material-from-my-presentations-at-htf-2013/ "Claudio Lassala's Material from Houston TechFest 2013 Presentations")". It got me thinking about how I work and what software I would recommend. The following tools fit into two categories. I either use it daily or it's invaluable in specific situations (for example, taking screenshots or giving presentations).
 
-**The Data I Need When I Need It**
+<h3>The Data I Need When I Need It</h3>
 
 I use a combination of three pieces of software to ensure that I always have all of the information I need at my fingertips. The three are: SkyDrive, OneNote, and KeePass.
 
@@ -21,7 +21,7 @@ I use a combination of three pieces of software to ensure that I always have all
 
 [KeePass](http://keepass.info/ "KeePass Password Manager") is a password manager tool. We have passwords for everything now and they should all be unique and varied. How does it work? You create one password for your encrypted KeePass file and you place all of your other passwords into the file.
 
-**Collaboration**
+<h3>Collaboration</h3>
 
 I currently work on a distributed team so having effective tools in place for collaboration and communication is a must.
 
@@ -29,7 +29,7 @@ For task and backlog tracking, we use Team Foundation Server. If TFS wouldn't be
 
 For voice, we use [Skype](http://www.skype.com "Skype"). It's simple, effective, and proven. Its screen sharing feature comes in handy if it's just a quick discussion. For more complex screen sharing, we use [TeamViewer](http://www.teamviewer.com "TeamViewer"). TeamViewer allows users to pass control around. This comes in extremely handy when working through code with another developer. Another plus is that TeamViewer has official apps for Android, Windows 8, Windows Phone 8, and iOS.
 
-**Let's Develop Something Already!**
+<h3>Let's Develop Something Already!</h3>
 
 I have already mentioned that I work in a Microsoft development team so Visual Studio is a must. I currently have 2010 and 2012 installed on my machine but we will be moving everything to 2013 on its release. If you'd like to know which plugins I'm using for Visual Studio, see my post "[Visual Studio Add-ons](../../2011/2011-08-26-visual-studio-add-ons/ "Visual Studio Add-ons")".
 
@@ -41,7 +41,7 @@ A great tool for testing .NET code snippets, LINQ statements, etc. is [LINQPad](
 
 [Greenshot](http://getgreenshot.org/ "Greenshot") is my go to application for screenshots. It has multiple capture modes and a built in image editor which allows you to edit an image before saving the final version.
 
-**Presentation Must Haves**
+<h3>Presentation Must Haves</h3>
 
 If you're giving presentations or sharing screens often, I have a couple of recommendations.
 

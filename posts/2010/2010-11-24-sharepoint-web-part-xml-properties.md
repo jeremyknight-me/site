@@ -52,6 +52,6 @@ For a definition and list of possible values for each of these properties, you c
 - [System.Web.UI.WebControls.WebParts.WebPart](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webparts.webpart_properties.aspx "MSDN page for ASP.NET WebPart object")
 - [Microsoft.SharePoint.WebPartPages.WebPart](http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webpartpages.webpart_properties.aspx "MSDN page for SharePoint WebPart object")
 
-**What about custom properties?**
+<h3>What about custom properties?</h3>
 
 You can use SharePoint to create a reference for the properties of your web part. Install your web part, setup the web part the way you would like it by default, and then use the Verbs menu to Export the web part. Locate the exported file, open it in your favorite editor, and your XML is there!  Simple right?
