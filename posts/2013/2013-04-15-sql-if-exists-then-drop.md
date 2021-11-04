@@ -12,7 +12,7 @@ tags:
 
 This is one topic that I continually find myself refering to my notes and bookmarks on and I've finally decided to add this piece of very good reference information to my own blog.
 
-## Tables
+<h3>Tables</h3>
 
 Option 1:
 
@@ -39,7 +39,7 @@ END
 GO
 ```
 
-## Views
+<h3>Views</h3>
 
 ``` sql
 IF EXISTS
@@ -68,7 +68,7 @@ END
 GO
 ```
 
-## User-Defined Functions
+<h3>User-Defined Functions</h3>
 
 ``` sql
 IF EXISTS

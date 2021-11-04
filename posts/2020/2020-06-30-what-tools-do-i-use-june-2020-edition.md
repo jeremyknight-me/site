@@ -11,7 +11,7 @@ tags:
 
 Having not done one of these since 2013, I thought it was time for an update! The following tools fit into two categories. I either use it daily or it's invaluable in specific situations (for example, taking screenshots or giving presentations).
 
-**The Data I Need When I Need It**
+<h3>The Data I Need When I Need It</h3>
 
 I use a combination of four pieces of software to ensure that I always have all of the information I need at my fingertips. They are: OneDrive, OneNote, Bitwarden, and Raindrop.io.
 
@@ -23,7 +23,7 @@ I use a combination of four pieces of software to ensure that I always have all 
 
 Last but definitely not least is [Raindrop.io](https://raindrop.io/). It's a bookmark manager with full tagging support including drill down tag searching. As a developer, I tend to collect a lot of links to research, articles, etc. and this is an invaluable tool to keep it all organized. It also doubles as my recipe book!
 
-**Collaboration**
+<h3>Collaboration</h3>
 
 I currently work on a distributed team so having effective tools in place for collaboration and communication is a must.
 
@@ -31,7 +31,7 @@ For task and backlog tracking, I use Azure DevOps at work and GitHub for other d
 
 For voice, I use a combination of Microsoft Teams (work) and Discord (personal). They both have screen sharing features that come in extremely handy when working through code with another developer.
 
-**Let's Develop Something Already!**
+<h3>Let's Develop Something Already!</h3>
 
 As a Microsoft developer with a heavy focus on web technologies, I currently have Visual Studio and Visual Studio Code installed. I run Visual Studio 2019 pretty lean now and install relatively few plugins compared to my 2013 edition. For Visual Studio Code, I install at least the following:
 
@@ -47,7 +47,7 @@ Everyone has their own favorite text editor and mine is [Notepad++](http://notep
 
 A great tool for testing .NET code snippets, LINQ statements, etc. is [LINQPad](http://www.linqpad.net/ "LINQPad"). This little application is extremely feature packed and you'll find more ways to use it every time you open it.
 
-**Presentation Must Haves**
+<h3>Presentation Must Haves</h3>
 
 If you're giving presentations or sharing screens often, I have a couple of recommendations.
 
