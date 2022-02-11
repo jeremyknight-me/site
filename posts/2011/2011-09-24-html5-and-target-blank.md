@@ -5,7 +5,7 @@ date: "2011-09-24"
 categories: 
   - "development"
 tags: 
-  - "html5"
+  - "html"
   - "javascript"
   - "xhtml"
 ---
