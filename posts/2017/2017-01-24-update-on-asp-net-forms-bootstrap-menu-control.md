@@ -10,7 +10,7 @@ tags:
   - "aspnet-forms"
   - "bootstrap"
   - "code"
-  - "html5"
+  - "html"
   - "responsive"
 ---
 
