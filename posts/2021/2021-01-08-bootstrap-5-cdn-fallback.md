@@ -26,7 +26,7 @@ Bootstrap 5 has a lot of changes and one of them is the fallback method in case 
 
 <link rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" 
-  onerror="this.onerror=null;this.href='css/bootstrap.min.css';"
+  onerror="this.onerror=null;this.href='css/bootstrap.min.css';this.removeAttribute('integrity');this.removeAttribute('crossorigin');"
   integrity="..." 
   crossorigin="..." />
 ```
