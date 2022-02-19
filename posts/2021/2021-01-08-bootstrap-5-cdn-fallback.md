@@ -17,7 +17,7 @@ Bootstrap 5 has a lot of changes and one of them is the fallback method in case 
 ``` markup
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
 <script>
-    if (!window.TelerikBlazor) { // the Telerik object is not present
+    if (!window.bootstrap) { // the bootstrap object is not present
         var newScript = document.createElement("script");
         newScript.setAttribute("src", "js/bootstrap.bundle.min.js");
         document.getElementsByTagName("head")[0].appendChild(newScript);
