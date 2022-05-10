@@ -1,12 +1,11 @@
 ---
 layout: layouts/post.njk
 title: "My Visual Studio Theme"
-date: "2012-04-18"
-categories: 
-  - "development"
+date: "2012-04-18"  
 tags: 
-  - "dotnet"
   - "customization"
+  - "development"
+  - "dotnet"
   - "resharper"
   - "software"
   - "tools"

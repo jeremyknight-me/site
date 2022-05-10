@@ -1,11 +1,10 @@
 ---
 layout: layouts/post.njk
 title: "Uncle Bob on Professional Software Development"
-date: "2014-02-10"
-categories: 
-  - "development"
+date: "2014-02-10"  
 tags: 
   - "craftsmanship"
+  - "development"
   - "software"
   - "video"
 ---

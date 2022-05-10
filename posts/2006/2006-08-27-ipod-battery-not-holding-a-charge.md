@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "iPod Battery Not Holding a Charge?"
 date: "2006-08-27"
-categories: 
-  - "personal-computing"
 tags: 
   - "ipod"
+  - "personal-computing"
 ---
 
 Next time you think your battery is going bad in your iPod because it doesn't hold a charge anymore just try draining the battery completely.

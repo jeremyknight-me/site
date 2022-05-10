@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Let the adventures begin!"
 date: "2008-07-25"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "microsoft"
   - "sharepoint"
   - "training"

@@ -1,12 +1,11 @@
 ---
 layout: layouts/post.njk
 title: "SQL Saturday Baton Rouge 2014"
-date: "2014-07-07"
-categories: 
-  - "community-events"
-  - "presentations"
+date: "2014-07-07"  
 tags: 
   - "baton-rouge"
+  - "community-events"
+  - "presentations"
   - "sql-saturday"
 ---
 

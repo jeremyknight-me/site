@@ -1,11 +1,10 @@
 ---
 layout: layouts/post.njk
 title: "Bootstrap 5 CDN Fallback"
-date: "2021-01-08"
-categories: 
-  - "development"
+date: "2021-01-08"  
 tags: 
   - "bootstrap"
+  - "development"
   - "javascript"
   - "web"
 ---

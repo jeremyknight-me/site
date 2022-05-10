@@ -1,12 +1,11 @@
 ---
 layout: layouts/post.njk
 title: ".NET String Concatenation"
-date: "2012-05-04"
-categories: 
-  - "development"
+date: "2012-05-04"  
 tags: 
-  - "dotnet"
   - "code"
+  - "development"
+  - "dotnet"
   - "performance"
   - "string"
   - "stringbuilder"

@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "VirtualBox UUID Change Script"
 date: "2010-07-10"
-categories: 
-  - "personal-computing"
 tags: 
+  - "personal-computing"
   - "script"
   - "virtualbox"
   - "virtualization"

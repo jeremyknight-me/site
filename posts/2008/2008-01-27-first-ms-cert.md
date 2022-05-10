@@ -2,8 +2,6 @@
 layout: layouts/post.njk
 title: "First MS Cert"
 date: "2008-01-27"
-categories: 
-  - "personal"
 tags: 
   - "aspnet"
   - "certifications"

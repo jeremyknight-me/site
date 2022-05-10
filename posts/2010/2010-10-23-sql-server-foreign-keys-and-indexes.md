@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "SQL Server Foreign Keys and Indexes"
 date: "2010-10-23"
-categories: 
-  - "development"
 tags: 
   - "database"
+  - "development"
   - "foreign-key"
   - "index"
   - "microsoft"

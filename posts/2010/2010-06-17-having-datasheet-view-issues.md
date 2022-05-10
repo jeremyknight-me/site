@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Having Datasheet View Issues?"
 date: "2010-06-17"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "internet-explorer"
   - "microsoft"
   - "office"

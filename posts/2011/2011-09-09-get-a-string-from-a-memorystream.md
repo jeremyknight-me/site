@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Get a String from a MemoryStream"
 date: "2011-09-09"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "dotnet"
   - "code"
   - "string"

@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "SharePoint Web Part Maintenance Page"
 date: "2010-07-28"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "sharepoint"
   - "web-part"
 ---

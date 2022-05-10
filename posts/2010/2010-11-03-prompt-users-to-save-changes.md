@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Prompt Users to Save Changes"
 date: "2010-11-03"
-categories: 
-  - "development"
 tags: 
   - "code"
+  - "development"
   - "firefox"
   - "internet-explorer"
   - "javascript"

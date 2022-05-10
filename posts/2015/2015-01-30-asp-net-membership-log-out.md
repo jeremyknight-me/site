@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "ASP.NET Membership Log Out"
 date: "2015-01-30"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "dotnet"
   - "aspnet"
   - "code-snippet"

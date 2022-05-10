@@ -2,13 +2,12 @@
 layout: layouts/post.njk
 title: "SPS NOLA 2011 Presentation Materials"
 date: "2011-02-27"
-categories: 
-  - "community-events"
-  - "presentations"
 tags: 
   - "aspnet"
+  - "community-events"
   - "microsoft"
   - "new-orleans"
+  - "presentations"
   - "sharepoint"
   - "sharepoint-saturday"
   - "web-part"

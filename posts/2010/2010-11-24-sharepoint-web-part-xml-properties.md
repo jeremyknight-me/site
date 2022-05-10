@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "SharePoint Web Part XML Properties"
 date: "2010-11-24"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "sharepoint"
   - "web-part"
   - "xml"

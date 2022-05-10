@@ -2,11 +2,10 @@
 layout: layouts/post.njk
 title: "Visual Studio Add-ons"
 date: "2011-08-26"
-categories: 
-  - "development"
 tags: 
   - "code-snippet"
   - "customization"
+  - "development"
   - "extension"
   - "plugin"
   - "resharper"

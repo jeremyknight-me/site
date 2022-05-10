@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "SQL Saturday #28: Baton Rouge"
 date: "2010-08-11"
-categories: 
-  - "community-events"
 tags: 
   - "baton-rouge"
+  - "community-events"
   - "louisiana"
   - "sql"
   - "sql-saturday"

@@ -1,10 +1,9 @@
 ---
 layout: layouts/post.njk
 title: "Lazy Strategy Pattern"
-date: "2013-05-02"
-categories: 
-  - "development"
+date: "2013-05-02"  
 tags: 
+  - "development"
   - "dotnet"
   - "code"
   - "design-pattern"

@@ -2,8 +2,6 @@
 layout: layouts/post.njk
 title: "Computer Induced Headache"
 date: "2009-07-22"
-categories: 
-  - "personal"
 tags: 
   - "computer"
   - "hardware"

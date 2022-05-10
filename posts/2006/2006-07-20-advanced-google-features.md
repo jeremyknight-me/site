@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Advanced Google Features"
 date: "2006-07-20"
-categories: 
-  - "personal-computing"
 tags: 
   - "google"
+  - "personal-computing"
 ---
 
 Unbeknown to most, the seemingly simple Google Search box is really very powerful. The following examples are just some of the ways that Google Search can be used.

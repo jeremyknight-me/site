@@ -2,8 +2,6 @@
 layout: layouts/post.njk
 title: "MCTS Web Apps"
 date: "2008-08-04"
-categories: 
-  - "personal"
 tags: 
   - "aspnet"
   - "certifications"

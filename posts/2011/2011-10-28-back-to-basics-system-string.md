@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Back to Basics: System.String"
 date: "2011-10-28"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "dotnet"
   - "code"
   - "string"

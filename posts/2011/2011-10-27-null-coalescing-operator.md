@@ -1,12 +1,11 @@
 ---
 layout: layouts/post.njk
 title: "Null Coalescing Operator"
-date: "2011-10-27"
-categories: 
-  - "development"
+date: "2011-10-27"  
 tags: 
-  - "dotnet"
   - "code"
+  - "development"
+  - "dotnet"
   - "null"
   - "operator"
 ---

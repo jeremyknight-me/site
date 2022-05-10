@@ -1,12 +1,11 @@
 ---
 layout: layouts/post.njk
 title: "Testable WebForms with MVP"
-date: "2014-08-02"
-categories: 
-  - "presentations"
+date: "2014-08-02"  
 tags: 
   - "aspnet"
   - "baton-rouge"
+  - "presentations"
   - "sql-saturday"
   - "web"
 ---

@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Is your favorite application portable?"
 date: "2007-01-23"
-categories: 
-  - "personal-computing"
 tags: 
+  - "personal-computing"
   - "review"
   - "software"
   - "windows"

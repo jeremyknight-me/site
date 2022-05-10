@@ -3,10 +3,11 @@ layout: layouts/post.njk
 title: "InfoPath Data into SharePoint List and SQL"
 date: "2010-07-02"
 categories: 
-  - "development"
+  
 tags: 
-  - "dotnet"
   - "code"
+  - "development"
+  - "dotnet"
   - "infopath"
   - "sharepoint"
   - "sql"

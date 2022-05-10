@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Web Parts Presentation Materials"
 date: "2010-11-12"
-categories: 
-  - "presentations"
 tags: 
   - "aspnet"
+  - "presentations"
   - "sharepoint"
   - "web-part"
 ---

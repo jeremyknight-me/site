@@ -2,11 +2,10 @@
 layout: layouts/post.njk
 title: "SharePoint Saturday New Orleans 2011"
 date: "2011-01-18"
-categories: 
-  - "community-events"
-  - "presentations"
 tags: 
+  - "community-events"
   - "new-orleans"
+  - "presentations"
   - "sharepoint"
   - "sharepoint-saturday"
 ---

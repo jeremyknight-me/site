@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "What is RSS?"
 date: "2006-03-05"
-categories: 
-  - "personal-computing"
 tags: 
+  - "personal-computing"
   - "rss"
 ---
 

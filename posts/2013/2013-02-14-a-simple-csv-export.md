@@ -1,10 +1,9 @@
 ---
 layout: layouts/post.njk
 title: "A Simple CSV Export?"
-date: "2013-02-14"
-categories: 
-  - "development"
+date: "2013-02-14"  
 tags: 
+  - "development"
   - "software"
 ---
 

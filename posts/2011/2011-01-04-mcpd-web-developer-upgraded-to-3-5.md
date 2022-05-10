@@ -2,8 +2,6 @@
 layout: layouts/post.njk
 title: "MCPD Web Developer Upgraded to 3.5"
 date: "2011-01-04"
-categories: 
-  - "personal"
 tags: 
   - "dotnet"
   - "aspnet"

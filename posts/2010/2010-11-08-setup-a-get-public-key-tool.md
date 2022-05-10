@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Setup a 'Get Public Key' Tool"
 date: "2010-11-08"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "microsoft"
   - "sharepoint"
   - "tools"

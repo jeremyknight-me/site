@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "jQuery XHTML Strict Target=\"_blank\" Solution"
 date: "2010-11-27"
-categories: 
-  - "development"
 tags: 
   - "code"
+  - "development"
   - "javascript"
   - "jquery"
   - "web"
