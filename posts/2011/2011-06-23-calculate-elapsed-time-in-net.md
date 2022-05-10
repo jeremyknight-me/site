@@ -1,10 +1,9 @@
 ---
 layout: layouts/post.njk
 title: "Calculate Elapsed Time in .NET"
-date: "2011-06-23"
-categories: 
-  - "development"
+date: "2011-06-23"  
 tags: 
+  - "development"
   - "dotnet"
   - "code"
   - "stopwatch"

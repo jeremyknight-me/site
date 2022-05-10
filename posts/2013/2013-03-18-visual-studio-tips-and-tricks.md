@@ -2,12 +2,11 @@
 layout: layouts/post.njk
 title: "Visual Studio Tips and Tricks"
 date: "2013-03-18"
-categories: 
-  - "development"
-  - "presentations"
 tags: 
+  - "development"
   - "dotnet"
   - "microsoft"
+  - "presentations"
   - "video"
   - "visual-studio"
 ---

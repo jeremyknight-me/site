@@ -2,8 +2,6 @@
 layout: layouts/post.njk
 title: "MCTS WSS 3.0 App Dev"
 date: "2009-04-01"
-categories: 
-  - "personal"
 tags: 
   - "certifications"
   - "microsoft"

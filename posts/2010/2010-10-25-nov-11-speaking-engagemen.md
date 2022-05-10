@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "November 11th Speaking Engagement"
 date: "2010-10-25"
-categories: 
-  - "presentations"
 tags: 
   - "new-orleans"
+  - "presentations"
   - "sharepoint"
   - "user-group"
   - "visual-studio"

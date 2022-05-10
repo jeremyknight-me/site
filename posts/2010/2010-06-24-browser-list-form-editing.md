@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Browser List Form Editing"
 date: "2010-06-24"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "form"
   - "list"
   - "sharepoint"

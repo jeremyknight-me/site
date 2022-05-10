@@ -3,10 +3,11 @@ layout: layouts/post.njk
 title: "2012 Baton Rouge SQL Saturday & Tech Day"
 date: "2012-04-18"
 categories: 
-  - "community-events"
+  
 tags: 
-  - "dotnet"
   - "baton-rouge"
+  - "dotnet"
+  - "community-events"
   - "louisiana"
   - "microsoft"
   - "sharepoint"

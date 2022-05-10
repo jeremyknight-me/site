@@ -2,13 +2,12 @@
 layout: layouts/post.njk
 title: "Back to Basics: ADO.NET"
 date: "2021-01-05"
-categories: 
-  - "presentations"
 tags: 
   - "dotnet"
   - "ado-net"
   - "baton-rouge"
   - "entity-framework"
+  - "presentations"
   - "user-group"
 ---
 

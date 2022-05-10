@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Phishing and Pharming, Awareness and Prevention"
 date: "2006-05-05"
-categories: 
-  - "personal-computing"
 tags: 
+  - "personal-computing"
   - "pharming"
   - "phishing"
   - "security"

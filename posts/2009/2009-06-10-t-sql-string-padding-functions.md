@@ -2,11 +2,10 @@
 layout: layouts/post.njk
 title: "T-SQL String Padding Functions"
 date: "2009-06-10"
-categories: 
-  - "development"
 tags: 
   - "code"
   - "database"
+  - "development"
   - "microsoft"
   - "sql"
 ---

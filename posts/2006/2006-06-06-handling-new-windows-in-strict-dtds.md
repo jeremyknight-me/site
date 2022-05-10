@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Handling New Windows in Strict DTDs"
 date: "2006-06-06"
-categories: 
-  - "development"
 tags: 
   - "css"
+  - "development"
   - "javascript"
   - "xhtml"
 ---

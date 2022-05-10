@@ -2,8 +2,6 @@
 layout: layouts/post.njk
 title: "MCTS: MOSS 2007 Application Development"
 date: "2010-04-26"
-categories: 
-  - "personal"
 tags: 
   - "certifications"
   - "microsoft"

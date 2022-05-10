@@ -1,12 +1,11 @@
 ---
 layout: layouts/post.njk
 title: "SP 2010 Site Collection PowerShell Script"
-date: "2011-06-10"
-categories: 
-  - "development"
+date: "2011-06-10"  
 tags: 
   - "code"
   - "database"
+  - "development"
   - "powershell"
   - "script"
   - "sharepoint"

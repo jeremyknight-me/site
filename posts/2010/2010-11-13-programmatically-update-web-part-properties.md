@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Programmatically Update Web Part Properties"
 date: "2010-11-13"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "dotnet"
   - "code"
   - "sharepoint"

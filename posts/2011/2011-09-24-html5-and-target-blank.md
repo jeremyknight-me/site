@@ -1,10 +1,9 @@
 ---
 layout: layouts/post.njk
 title: "HTML5 and target=\"_blank\""
-date: "2011-09-24"
-categories: 
-  - "development"
+date: "2011-09-24"  
 tags: 
+  - "development"
   - "html"
   - "javascript"
   - "xhtml"

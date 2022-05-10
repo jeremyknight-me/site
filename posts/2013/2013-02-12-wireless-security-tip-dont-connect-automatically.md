@@ -1,10 +1,9 @@
 ---
 layout: layouts/post.njk
 title: "Wireless Security Tip: Don't Connect Automatically"
-date: "2013-02-12"
-categories: 
-  - "personal-computing"
+date: "2013-02-12"  
 tags: 
+  - "personal-computing"
   - "security"
   - "wifi"
 ---

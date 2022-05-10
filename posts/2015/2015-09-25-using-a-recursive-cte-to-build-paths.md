@@ -1,11 +1,10 @@
 ---
 layout: layouts/post.njk
 title: "Using a Recursive CTE to Build Paths"
-date: "2015-09-25"
-categories: 
-  - "development"
+date: "2015-09-25"  
 tags: 
   - "code-snippet"
+  - "development"
   - "sql"
 ---
 

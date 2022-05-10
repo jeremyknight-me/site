@@ -2,9 +2,8 @@
 layout: layouts/post.njk
 title: "Article: 10 Steps to Better SharePoint Development"
 date: "2010-10-21"
-categories: 
-  - "development"
 tags: 
+  - "development"
   - "dotnet"
   - "microsoft"
   - "sharepoint"

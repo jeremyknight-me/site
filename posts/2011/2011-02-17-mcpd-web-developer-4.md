@@ -2,8 +2,6 @@
 layout: layouts/post.njk
 title: "MCPD Web Developer 4"
 date: "2011-02-17"
-categories: 
-  - "personal"
 tags: 
   - "dotnet"
   - "aspnet"

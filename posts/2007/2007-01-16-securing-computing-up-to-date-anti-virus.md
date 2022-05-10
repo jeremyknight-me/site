@@ -2,10 +2,9 @@
 layout: layouts/post.njk
 title: "Secure Computing: Up-To-Date Anti-Virus"
 date: "2007-01-16"
-categories: 
-  - "personal-computing"
 tags: 
   - "anti-virus"
+  - "personal-computing"
   - "security"
 ---
 

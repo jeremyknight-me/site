@@ -1,12 +1,11 @@
 ---
 layout: layouts/post.njk
 title: "March 2013 Nicholls Presentation"
-date: "2013-03-27"
-categories: 
-  - "presentations"
+date: "2013-03-27"  
 tags: 
   - "dotnet"
   - "aspnet"
+  - "presentations"
   - "visual-studio"
 ---
 

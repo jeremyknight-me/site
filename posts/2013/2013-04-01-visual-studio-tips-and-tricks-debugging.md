@@ -1,14 +1,13 @@
 ---
 layout: layouts/post.njk
 title: "Visual Studio Tips and Tricks: Debugging"
-date: "2013-04-01"
-categories: 
-  - "development"
-  - "presentations"
+date: "2013-04-01"  
 tags: 
   - "dotnet"
   - "debug"
+  - "development"
   - "microsoft"
+  - "presentations"
   - "video"
   - "visual-studio"
 ---
