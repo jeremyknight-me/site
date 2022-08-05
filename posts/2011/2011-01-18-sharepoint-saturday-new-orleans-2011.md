@@ -5,7 +5,6 @@ date: "2011-01-18"
 tags: 
   - "community-events"
   - "new-orleans"
-  - "presentations"
   - "sharepoint"
   - "sharepoint-saturday"
 ---

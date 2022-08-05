@@ -23,7 +23,7 @@ Last but definitely not least is [Raindrop.io](https://raindrop.io/). It's a boo
 
 <h3>Collaboration</h3>
 
-I currently work on a distributed team so having effective tools in place for collaboration and communication is a must.
+I currently work on a hybrid team (some days in office and some days WFH) so having effective tools in place for collaboration and communication is a must.
 
 For task and backlog tracking, I use Azure DevOps at work and GitHub for other development projects.
 
