@@ -5,7 +5,6 @@ date: "2014-07-07"
 tags: 
   - "baton-rouge"
   - "community-events"
-  - "presentations"
   - "sql-saturday"
 ---
 
