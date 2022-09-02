@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "What Tools Do I Use?"
+title: "What Tools Do I Use? Oct 2013 Edition"
 date: "2013-10-10"
 tags: 
   - "productivity"
