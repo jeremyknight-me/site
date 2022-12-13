@@ -9,9 +9,7 @@ tags:
   - "sql"
 ---
 
-In my [original post](../../2013/2013-04-15-sql-if-exists-then-drop/) back in 2013, I described some ways to add "if exists then drop" 
-statements to multiple SQL script types. I'm well overdue for an update on that post as SQL Server 2016 added most of the below syntax.
-As with my last post, enjoy the quick reference!
+In my [original post](../../2013/2013-04-15-sql-if-exists-then-drop/) back in 2013, I described some ways to add "if exists then drop" statements to multiple SQL script types. I'm well overdue for an update on that post as SQL Server 2016 added most of the below syntax. As with my last post, enjoy the quick reference!
 
 <h3>Drop Statement 'IF EXISTS' </h3>
 
