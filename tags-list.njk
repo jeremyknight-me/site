@@ -17,4 +17,6 @@ title: Tags
   {% endfor %}
 </div>
 
-<script src="{{ "/js/tag-list.js" | url }}"></script>
+<script defer>
+  document.addEventListener('DOMContentLoaded', (e) => window.jk.tagList.init(), false);
+</script>
