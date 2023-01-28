@@ -7,10 +7,18 @@ eleventyNavigation:
 ---
 
 {% include "blurb-about.njk" %}
-<hr>
-{% include "blurb-recommendations.njk" %}
+
+<div class="text-center mt-3">
+    <a class="btn btn-dark" href="{{ '/recommendations/' | url }}"><i class="bi bi-star-fill"></i> Recommendations</a>
+    <a class="btn btn-dark" href="{{ '/tags/presentations/' | url }}"><i class="bi bi-projector-fill"></i> Presentations</a>
+    <a class="btn btn-dark" href="{{ '/toolbox/' | url }}"><i class="bi bi-tools"></i> Toolbox</a>
+</div>
+
 <hr>
 {% include "blurb-portfolio.njk" %}
 <hr>
 {% include "blurb-certifications.njk" %}
 
+<script defer>
+  document.addEventListener('DOMContentLoaded', (e) => window.jk.portfolio.init(), false);
+</script>
