@@ -17,4 +17,6 @@ eleventyNavigation:
   {% include "postslist.njk" %}
 </div>
 
-<script src="{{ "/js/blog.js" | url }}"></script>
+<script defer>
+  document.addEventListener('DOMContentLoaded', (e) => window.jk.blog.init(), false);
+</script>
