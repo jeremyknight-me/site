@@ -74,11 +74,13 @@
               <a class="btn btn-dark" href="{{ '/tags/presentations/' | url }}">Presentations</a>
               <a class="btn btn-dark" href="{{ '/toolbox/' | url }}">Toolbox</a>
             </div>
+            {#
             <h5 class="text-white">Links</h5>
             <div class="d-grid gap-2">
               <a class="btn btn-dark" target="_blank" href="https://www.brdnug.org">Baton Rouge .NET User Group</a>
               <a class="btn btn-dark" target="_blank" href="https://www.htdnug.org">Houma-Thibodaux .NET User Group</a>
             </div>
+            #}
             <div>
               {% for tag in collections.categoryList %}
                 {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}

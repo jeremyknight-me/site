@@ -4,7 +4,7 @@ title: "Back to Basics: Unit Testing"
 date: "2022-08-05"
 tags: 
   - "dotnet"
-  - "unit-texting"
+  - "unit-testing"
   - "baton-rouge"
   - "xunit"
   - "presentations"
