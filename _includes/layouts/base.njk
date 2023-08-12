@@ -15,6 +15,13 @@
     <link rel="stylesheet" href="{{ '/css/site.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "ie7dnt8oy4");
+    </script>
   </head>
   <body>
     <a class="btn btn-primary skip-nav-link" href="#main-content">Skip Navigation</a>
@@ -62,12 +69,14 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
+            {#
             <div class="input-group mb-3">
               <input type="search" class="form-control search-box" placeholder="Search..." aria-label="Search" aria-describedby="button-search-footer">
               <button class="btn btn-dark search-button" type="button" id="button-search-footer">
                 <i class="bi bi-search"></i><span class="visually-hidden">Search</span>
               </button>
             </div>
+            #}
             <h4 class="text-white">Jeremy Knight</h4>
             <a href="https://ko-fi.com/jeremyknight" target="_blank"><img src="{{ '/img/buy-me-a-coffee.png' | url }}" alt="buy me a coffee" class="w-100"></a>
             <h5 class="text-white mt-3">Pages</h5>
@@ -114,16 +123,7 @@
     <!-- Current page: {{ page.url | url }} -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha256-wMCQIK229gKxbUg3QWa544ypI4OoFlC2qQl8Q8xD8x8=" crossorigin="anonymous"></script>
-    <script async src="https://js.sitesearch360.com/plugin/bundle/2941.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/humanize-duration@3.28.0/humanize-duration.min.js"></script>
     <script src="{{ "/js/app.js" | url }}" type="module"></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-23YFD2K57P"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-23YFD2K57P');
-    </script>
   </body>
 </html>
