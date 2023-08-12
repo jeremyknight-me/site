@@ -24,7 +24,6 @@ strong {
     transform: translateY(0) translateX(-50%);
 }
 
-
 .skip-nav-link:hover {
     text-decoration: underline;
 }

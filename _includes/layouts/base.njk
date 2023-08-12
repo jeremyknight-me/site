@@ -10,11 +10,18 @@
     <link rel="icon" type="image/png" sizes="16x16" href="{{ '/img/icons/favicon-16x16.png' | url }}">
     <link rel="manifest" href="{{ '/site.webmanifest' | url }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism-coy.min.css" integrity="sha256-pO/fumqgrAT0qA1DpFzDZg5oE3ur2H1xhD8fpTnZoIY=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.2.0/dist/lux/bootstrap.min.css" integrity="sha256-9BjU0zJ/7P2KTiXbpT0kplks4oc2zLGAlEmxNN18Qsk=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" integrity="sha256-8M+b2Hj+vy/2J5tZ9pYDHeuPD59KsaEZn1XXj3xVhjg=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.1/dist/lux/bootstrap.min.css" integrity="sha256-EdsBMx5rPYxs16tsayD0x4LMVdEb8TKWFLW2supP4qk=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.min.css" integrity="sha256-BicZsQAhkGHIoR//IB2amPN5SrRb3fHB8tFsnqRAwnk=" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ '/css/site.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "ie7dnt8oy4");
+    </script>
   </head>
   <body>
     <a class="btn btn-primary skip-nav-link" href="#main-content">Skip Navigation</a>
@@ -62,12 +69,14 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
+            {#
             <div class="input-group mb-3">
               <input type="search" class="form-control search-box" placeholder="Search..." aria-label="Search" aria-describedby="button-search-footer">
               <button class="btn btn-dark search-button" type="button" id="button-search-footer">
                 <i class="bi bi-search"></i><span class="visually-hidden">Search</span>
               </button>
             </div>
+            #}
             <h4 class="text-white">Jeremy Knight</h4>
             <a href="https://ko-fi.com/jeremyknight" target="_blank"><img src="{{ '/img/buy-me-a-coffee.png' | url }}" alt="buy me a coffee" class="w-100"></a>
             <h5 class="text-white mt-3">Pages</h5>
@@ -76,6 +85,7 @@
               <a class="btn btn-dark" href="{{ '/recommendations/' | url }}">Recommendations</a>
               <a class="btn btn-dark" href="{{ '/tags/presentations/' | url }}">Presentations</a>
               <a class="btn btn-dark" href="{{ '/toolbox/' | url }}">Toolbox</a>
+              <a class="btn btn-dark" href="{{ '/privacy/' | url }}">Privacy</a>
             </div>
             {#
             <h5 class="text-white">Links</h5>
@@ -111,19 +121,24 @@
       </div>
     </footer>
 
+    {#
+    <div id="cookie-alert-container" class="position-fixed bottom-0 m-0 p-1">
+      <div id="cookie-alert" class="alert alert-primary fade show m-0" role="alert">
+        <div class="d-flex align-items-center">
+          <div class="toast-body">
+            Cookies are off by default. If you'd like to opt in, please click 'Accept'.
+          </div>
+          <button type="button" class="btn btn-primary btn-sm align-self-center me-1" onclick="window.jk.cookies.accept();">Accept</button>
+          <button type="button" class="btn btn-dark btn-sm align-self-center" data-bs-dismiss="alert" aria-label="Deny">Deny</button>  
+        </div>
+      </div>
+    </div>
+    #}
+    
     <!-- Current page: {{ page.url | url }} -->
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha256-wMCQIK229gKxbUg3QWa544ypI4OoFlC2qQl8Q8xD8x8=" crossorigin="anonymous"></script>
-    <script async src="https://js.sitesearch360.com/plugin/bundle/2941.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/humanize-duration@3.28.0/humanize-duration.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-0upsHgyryiDRjpJLJaHNAYfDi6fDP2CrBuGwQCubzbU=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/humanize-duration@3.29.0/humanize-duration.min.js"></script>
     <script src="{{ "/js/app.js" | url }}" type="module"></script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-23YFD2K57P"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-23YFD2K57P');
-    </script>
   </body>
 </html>
