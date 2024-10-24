@@ -2,7 +2,6 @@ let jkPortfolio = {
     root: "https://api.github.com",
     includedRepositoryNames: [
         "JK.Common",
-        "photo-sync",
         "photocollage",
         "presentations",
         "scripts",
