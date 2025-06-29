@@ -1,11 +1,13 @@
 let jkPortfolio = {
     root: "https://api.github.com",
     includedRepositoryNames: [
-        "JK.Common",
         "photocollage",
+        "family-games",
+        "tip-calc",
+        "fontviewer",
         "presentations",
-        "scripts",
-        "tip-calc"
+        "JK.Common",
+        "scripts"
     ], 
     init: async function() {
         let response = await fetch(`${this.root}/users/jeremyknight-me/repos`);
