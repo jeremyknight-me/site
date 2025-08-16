@@ -27,14 +27,3 @@ strong {
 .skip-nav-link:hover {
     text-decoration: underline;
 }
-
-.bi-bluesky::before {
-    content: "";
-    background-color: currentColor;
-    -webkit-mask: url("../img/icons/bluesky.svg") no-repeat 50% 50%;
-    mask: url("../img/icons/bluesky.svg") no-repeat 50% 50%;
-    -webkit-mask-size: cover;
-    mask-size: cover;
-    height: 26px;
-    width: 26px;
-}
