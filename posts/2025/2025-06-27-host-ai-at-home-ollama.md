@@ -31,7 +31,7 @@ By hosting models locally, I can provide my children with supervised access to A
 My local setup runs on [Ollama](https://ollama.com), a fantastic tool for managing and running LLMs on local hardware. I’m currently using: llama, deepseek-r1, and gemma3.
 
 You can peek at my Docker Compose configuration here:  
-[ollama.compose.yaml](https://github.com/jeremyknight-me/scripts/blob/master/docker/ollama.compose.yaml)
+[ollama/compose.yaml](https://github.com/jeremyknight-me/scripts/blob/master/docker/ollama/compose.yaml)
 
 ## The Magic of OpenWebUI
 
