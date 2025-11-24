@@ -1,0 +1,10 @@
+<div class="row">
+  <div class="col text-center">
+    {% for social in socials %}
+      {% if social.enabled %}
+        <a rel="me" href="{{ social.url }}" class="px-2" target="_blank" title="{{ social.title }}"><i class="bi {{ social.icon }} fs-3"></i><span class="visually-hidden">{{ social.title }}</span></a>
+      {% endif %}
+    {% endfor %}
+    <a href="{{ '/feed/feed.xml' | url }}" class="px-2" target="_blank" title="RSS Feed"><i class="bi bi-rss-fill fs-3"></i><span class="visually-hidden">RSS Feed</span></a>
+  </div>
+</div>
