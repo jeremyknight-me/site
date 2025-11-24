@@ -45,26 +45,16 @@
       </div>
     </nav>
 
+    <nav class="container-fluid social-links mb-3 mt-0 py-1" aria-label="social links nav">
+      {% include "layouts/social-links.njk" %}
+    </nav>
+
     <main class="container" id="main-content">
       {{ content | safe }}
     </main>
 
-    <footer class="container-fluid bg-dark mb-0 mt-3 py-3" aria-label="social links footer">
-      <div class="row">
-        <div class="col text-center">
-          <a href="{{ '/feed/feed.xml' | url }}" class="text-white px-2" target="_blank" title="RSS Feed"><i class="bi bi-rss-fill fs-2"></i><span class="visually-hidden">RSS Feed</span></a>
-          <a rel="me" href="https://github.com/jeremyknight-me/" class="text-white px-2" target="_blank" title="GitHub"><i class="bi bi-github fs-2"></i><span class="visually-hidden">GitHub</span></a>
-          <a rel="me" href="https://www.linkedin.com/in/jeremyknight-me/" class="text-white px-2" target="_blank" title="LinkedIn"><i class="bi bi-linkedin fs-2"></i><span class="visually-hidden">LinkedIn</span></a>
-          {#
-          <a rel="me" href="https://mastodon.social/@jeremyknight" class="text-white px-2" target="_blank" title="Mastodon"><i class="bi bi-mastodon fs-2"></i><span class="visually-hidden">Mastodon</span></a>
-          <a rel="me" href="https://twitter.com/jeremyknight_me/" class="text-white px-2" target="_blank"><i class="bi bi-twitter fs-2"></i><span class="visually-hidden">Twitter</span></a>
-          <a rel="me" href="https://www.threads.net/@jeremyknight_me" class="text-white px-2" target="_blank" title="Threads"><i class="bi bi-threads fs-2"></i><span class="visually-hidden">Threads</span></a>
-          #}
-          <a rel="me" href="https://sessionize.com/jeremy-knight/" class="text-white px-2" target="_blank" title="Sessionize"><i class="bi bi-megaphone-fill fs-2"></i><span class="visually-hidden">Sessionize</span></a>
-          <a rel="me" href="https://bsky.app/profile/jeremyknight.me" class="text-white px-2" target="_blank" title="Bluesky"><i class="bi bi-bluesky fs-2"></i><span class="visually-hidden">Bluesky</span></a>
-          <a rel="me" href="https://www.youtube.com/channel/UC8FicoH5UZFzqBJGfCZrUSA" class="text-white px-2" target="_blank" title="YouTube"><i class="bi bi-youtube fs-2"></i><span class="visually-hidden">YouTube</span></a>
-        </div>
-      </div>
+    <footer class="container-fluid social-links mb-0 mt-3 py-3" aria-label="social links footer">
+      {% include "layouts/social-links.njk" %}
     </footer>
 
     <footer class="container-fluid bg-primary text-white my-0 py-3" aria-label="primary footer">

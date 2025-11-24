@@ -1,0 +1,50 @@
+[
+  { 
+    "title": "GitHub",
+    "url": "https://github.com/jeremyknight-me/",
+    "icon": "bi-github",
+    "enabled": true
+  },
+  { 
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/in/jeremyknight-me/",
+    "icon": "bi-linkedin",
+    "enabled": true
+  },
+  { 
+    "title": "YouTube",
+    "url": "https://www.youtube.com/channel/UC8FicoH5UZFzqBJGfCZrUSA",
+    "icon": "bi-youtube",
+    "enabled": true
+  },
+  { 
+    "title": "Mastodon",
+    "url": "https://mastodon.social/@jeremyknight",
+    "icon": "bi-mastodon",
+    "enabled": false
+  },
+  { 
+    "title": "Twitter",
+    "url": "https://twitter.com/jeremyknight_me/",
+    "icon": "bi-twitter",
+    "enabled": false
+  },
+  { 
+    "title": "Bluesky",
+    "url": "https://bsky.app/profile/jeremyknight.me",
+    "icon": "bi-bluesky",
+    "enabled": true
+  },
+  { 
+    "title": "Threads",
+    "url": "https://www.threads.net/@jeremyknight_me",
+    "icon": "bi-threads",
+    "enabled": true
+  },
+  { 
+    "title": "Sessionize",
+    "url": "https://sessionize.com/jeremy-knight/",
+    "icon": "bi-megaphone-fill",
+    "enabled": true
+  }
+]
