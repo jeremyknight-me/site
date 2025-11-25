@@ -10,7 +10,7 @@ tags:
   - "docker"
 ---
 
-As AI becomes more ubiquitous, I wanted to explore what it meant to bring it closer to home—*literally.* My locally hosted AI environment is built on three pillars: **privacy**, **learning**, and **family empowerment**. Here’s a look at why I created this setup, the tools I use, and how it’s helping me (and even my kids) explore AI in a secure, controlled environment.
+As AI becomes more ubiquitous, I wanted to explore what it meant to bring it closer to home *literally.* My locally hosted AI environment is built on three pillars: **privacy**, **learning**, and **family empowerment**. Here’s a look at why I created this setup, the tools I use, and how it’s helping me (and even my kids) explore AI in a secure, controlled environment.
 
 ## Why Host AI Locally
 
@@ -24,7 +24,7 @@ Public cloud models are convenient, but they raise questions about data usage an
 
 **3. Safe Access for My Kids**
 
-By hosting models locally, I can provide my children with supervised access to AI tools. It’s a chance for them to explore, ask questions, and experiment—within boundaries I can control.
+By hosting models locally, I can provide my children with supervised access to AI tools. It’s a chance for them to explore, ask questions, and experiment within boundaries I can control.
 
 ## Models Running in Ollama
 
@@ -59,6 +59,6 @@ This idea was inspired by [NetworkChuck](https://www.youtube.com/@NetworkChuck) 
 
 ## Closing Thoughts
 
-Whether you're a developer, parent, or tech tinkerer, a locally hosted AI setup offers a rare combination of **performance, privacy, and flexibility**. I’ve grown a lot through this process—and it’s opened a lot of curiosity and capability for my family too.
+Whether you're a developer, parent, or tech tinkerer, a locally hosted AI setup offers a rare combination of **performance, privacy, and flexibility**. I’ve learned a lot through this process, and it’s opened a lot of curiosity and capability for my family too.
 
 If you’re considering doing something similar, I’d love to connect or answer questions. Feel free to explore my code and prompts on GitHub!
