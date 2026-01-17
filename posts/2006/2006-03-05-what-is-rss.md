@@ -4,7 +4,6 @@ title: "What is RSS?"
 date: "2006-03-05"
 tags: 
   - "personal-computing"
-  - "rss"
 ---
 
 RSS, or Really Simple Syndication, is a format for sharing website content. RSS allows you to subscribe to websites that offer RSS feeds. Today you can find RSS feeds on news sites such as CNN and Wired, blog sites, and many more. The list of uses for RSS, as well as the list of sites using it, is growing daily.

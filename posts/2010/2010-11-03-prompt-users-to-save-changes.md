@@ -5,8 +5,6 @@ date: "2010-11-03"
 tags: 
   - "code"
   - "development"
-  - "firefox"
-  - "internet-explorer"
   - "javascript"
   - "web"
   - "web-browser"

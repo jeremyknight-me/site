@@ -7,9 +7,7 @@ tags:
   - "database"
   - "development"
   - "powershell"
-  - "script"
   - "sharepoint"
-  - "site-collection"
 ---
 
 The following script is what we've been using to create site collections with their own database in SharePoint 2010.

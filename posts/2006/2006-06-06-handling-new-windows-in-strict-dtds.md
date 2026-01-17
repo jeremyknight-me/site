@@ -6,7 +6,7 @@ tags:
   - "css"
   - "development"
   - "javascript"
-  - "xhtml"
+  - "html"
 ---
 
 Kevin Yank on SitePoint has an article named "New-Window Links in a Standards-Compliant World" which explains a great javascript alternative to help with the Strict DTDs' lack of the anchor's target attribute.

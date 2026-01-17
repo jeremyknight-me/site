@@ -3,13 +3,10 @@ layout: layouts/post.njk
 title: "Visual Studio Add-ons"
 date: "2011-08-26"
 tags: 
-  - "customization"
   - "development"
   - "extension"
   - "plugin"
-  - "resharper"
   - "software"
-  - "stylecop"
   - "tools"
   - "visual-studio"
 ---

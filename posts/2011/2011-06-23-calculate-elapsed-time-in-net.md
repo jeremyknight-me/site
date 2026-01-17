@@ -6,7 +6,6 @@ tags:
   - "development"
   - "dotnet"
   - "code"
-  - "stopwatch"
 ---
 
 I came across this while preparing an upcoming blog entry and felt the need to share. I was looking for a way to calculate the time of an operation. I searched over and over again only to find the following pattern:

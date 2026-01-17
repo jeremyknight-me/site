@@ -5,8 +5,8 @@ date: "2011-09-09"
 tags: 
   - "development"
   - "dotnet"
-  - "code"
-  - "string"
+  - "code"  
+  - "csharp"
 ---
 
 The [MSDN article for MemoryStream](http://msdn.microsoft.com/en-us/library/system.io.memorystream.aspx "MSDN article for MemoryStream") has this example of outputting a string to the console.

@@ -4,8 +4,6 @@ title: "VirtualBox UUID Change Script"
 date: "2010-07-10"
 tags: 
   - "personal-computing"
-  - "script"
-  - "virtualbox"
   - "virtualization"
 ---
 

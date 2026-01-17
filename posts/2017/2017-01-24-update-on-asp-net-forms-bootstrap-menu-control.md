@@ -6,10 +6,8 @@ tags:
   - "development"
   - "dotnet"
   - "aspnet"
-  - "aspnet-forms"
   - "bootstrap"
   - "html"
-  - "responsive"
 ---
 
 I finally took the time to move my ASP.NET Forms Bootstrap Menu Control code over to a [GitHub repository](https://github.com/knight0323/aspnet-forms-bootstrap-menu). Because of the move, I've closed the comments on the [original post](../../2014/2014-02-25-asp-net-forms-bootstrap-menu-control/) in hopes of moving all discussion regarding the control to its repository.

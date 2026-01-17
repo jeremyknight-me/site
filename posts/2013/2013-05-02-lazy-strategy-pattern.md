@@ -7,7 +7,7 @@ tags:
   - "dotnet"
   - "code"
   - "design-pattern"
-  - "strategy-pattern"
+  - "csharp"
 ---
 
 The following are some code samples that show how to use Lazy to clean up how your objects are initialized when using the Strategy pattern in .NET. The following code is taken from the DimeCast.Net Strategy pattern video. It uses an enum to select the correct logging strategy and logs the given message. The original code from the video before Lazy is applied looks like (by the way, I'm only posting the sections relevant to strategy and lazy):

@@ -8,7 +8,6 @@ tags:
   - "code"
   - "development"
   - "dotnet"
-  - "infopath"
   - "sharepoint"
   - "sql"
   - "workflow"

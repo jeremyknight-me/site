@@ -6,7 +6,7 @@ tags:
   - "development"
   - "dotnet"
   - "code"
-  - "string"
+  - "csharp"
 ---
 
 For such a simple concept, the string class is, in my opinion, one of the most complex classes in the System namespace. The MSDN page for String Class is 53 printed pages excluding the 2 additional pages of comments.
