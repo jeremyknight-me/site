@@ -8,7 +8,6 @@ tags:
   - "baton-rouge"
   - "dotnet"
   - "community-events"
-  - "louisiana"
   - "microsoft"
   - "sharepoint"
   - "sql"
