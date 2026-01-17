@@ -8,7 +8,6 @@ tags:
   - "aspnet"
   - "aspnet-forms"
   - "bootstrap"
-  - "code"
   - "html"
   - "responsive"
 ---

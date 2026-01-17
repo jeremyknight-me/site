@@ -3,7 +3,6 @@ layout: layouts/post.njk
 title: "Visual Studio Add-ons"
 date: "2011-08-26"
 tags: 
-  - "code-snippet"
   - "customization"
   - "development"
   - "extension"

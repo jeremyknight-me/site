@@ -4,7 +4,6 @@ title: "C# Syntax Lowering"
 date: "2024-05-24"  
 tags: 
   - "dotnet"
-  - "code-snippet"
   - "code"
   - "csharp"  
 ---

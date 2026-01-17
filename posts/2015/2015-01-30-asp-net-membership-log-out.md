@@ -6,7 +6,7 @@ tags:
   - "development"
   - "dotnet"
   - "aspnet"
-  - "code-snippet"
+  - "code"
   - "security"
   - "web"
 ---
