@@ -5,7 +5,6 @@ date: "2010-06-24"
 tags: 
   - "development"
   - "form"
-  - "list"
   - "sharepoint"
   - "web-browser"
 ---

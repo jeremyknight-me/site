@@ -6,11 +6,9 @@ tags:
   - "development"
   - "dotnet"
   - "aspnet"
-  - "aspnet-forms"
   - "bootstrap"
   - "code"
-  - "html5"
-  - "responsive"
+  - "html"
 ---
 
 **UPDATE: I have closed the comments for this post. If you'd like to discuss the ASP.NET Forms Bootstrap Menu Control, please visit the GitHub repository located at: [https://github.com/jeremyknight-me/aspnet-forms-bootstrap-menu](https://github.com/jeremyknight-me/aspnet-forms-bootstrap-menu)**

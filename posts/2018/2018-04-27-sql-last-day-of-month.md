@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "SQL Last Day of Month"
 date: "2018-04-27"
 tags: 
-  - "code-snippet"
+  - "code"
   - "development"
   - "sql"
 ---

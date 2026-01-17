@@ -6,8 +6,7 @@ tags:
   - "code"
   - "development"
   - "dotnet"
-  - "null"
-  - "operator"
+  - "csharp"
 ---
 
 In C# 2.0, Microsoft introduced the null coalescing operator (??). The ?? operator is a shorthand notation for returning a default value if a reference or [Nullable<T>](http://msdn.microsoft.com/en-us/library/1t3y8s4s.aspx "Nullable Types (C# Programming Guide) - MSDN") type is null.

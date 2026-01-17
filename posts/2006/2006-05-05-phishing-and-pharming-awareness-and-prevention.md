@@ -4,8 +4,6 @@ title: "Phishing and Pharming, Awareness and Prevention"
 date: "2006-05-05"
 tags: 
   - "personal-computing"
-  - "pharming"
-  - "phishing"
   - "security"
 ---
 

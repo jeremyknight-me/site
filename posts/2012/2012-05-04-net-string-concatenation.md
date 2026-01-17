@@ -7,8 +7,7 @@ tags:
   - "development"
   - "dotnet"
   - "performance"
-  - "string"
-  - "stringbuilder"
+  - "csharp"
 ---
 
 String concatenation is a tool on every developer’s tool belt but in .NET there are multiple ways to accomplish it. There are also a lot of conflicting articles, posts, etc. on the subject. When should you use StringBuilder? When should you use string formatting? This article will hopefully shine some light on when to use each method.

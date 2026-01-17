@@ -9,6 +9,7 @@ tags:
   - "entity-framework"
   - "presentations"
   - "user-group"
+  - "csharp"
 ---
 
 I will be presenting "Back to Basics: ADO.NET" on Jan 13th to the [Baton Rouge .NET User Group](https://www.brdnug.org/). This will be a beginner topic and I'll be assuming no ADO.NET experience. All code examples will be in C#. Here's the description I sent in:

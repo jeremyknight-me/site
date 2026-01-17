@@ -5,7 +5,7 @@ date: "2015-02-19"
 tags: 
   - "aspnet"
   - "bootstrap"
-  - "code-snippet"
+  - "code"
   - "css"
   - "development"
   - "web"

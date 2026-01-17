@@ -10,6 +10,7 @@ tags:
   - "presentations"
   - "ado-net"
   - "entity-framework"
+  - "csharp"
 ---
 
 I will be presenting at [SQL Saturday Baton Rouge 2023](https://sqlsaturday.com/2023-07-29-sqlsaturday1060/ "SQL Saturday Baton Rouge 2023") on July 29, 2023.

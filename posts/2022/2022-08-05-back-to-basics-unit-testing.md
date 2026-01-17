@@ -6,9 +6,9 @@ tags:
   - "dotnet"
   - "unit-testing"
   - "baton-rouge"
-  - "xunit"
   - "presentations"
   - "sql-saturday"
+  - "csharp"
 ---
 
 I will be presenting "Back to Basics: Unit Testing" at [SQL Saturday Baton Rouge 2022](https://sqlsaturday.com/2022-08-06-sqlsaturday1026/) on Aug 5, 2022. This will be a beginner topic and I'll be assuming no unit testing experience. All code examples will be in C#. Here's the description I sent in:

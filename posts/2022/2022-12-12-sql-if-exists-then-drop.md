@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "SQL If Exists Then Drop (Updated)"
 date: "2022-12-12"  
 tags: 
-  - "code-snippet"
+  - "code"
   - "database"
   - "development"
   - "sql"

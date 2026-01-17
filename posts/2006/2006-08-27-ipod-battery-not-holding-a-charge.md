@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: "iPod Battery Not Holding a Charge?"
 date: "2006-08-27"
 tags: 
-  - "ipod"
+  - "hardware"
   - "personal-computing"
 ---
 
