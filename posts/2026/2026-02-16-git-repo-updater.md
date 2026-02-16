@@ -1,4 +1,13 @@
-# Git Repo Updates Made Simple
+---
+layout: layouts/post.njk
+title: "Git Repo Updates Made Simple"
+date: "2026-02-16"  
+tags: 
+  - "git"
+  - "powershell"
+  - "code"
+  - "automation"
+---
 
 As developers, we’re always looking to optimize our workflows. This PowerShell script, `Update-GitRepos`, automates the process of keeping your Git repositories up-to-date. It’s a little helper that takes care of the grunt work for you.
 
