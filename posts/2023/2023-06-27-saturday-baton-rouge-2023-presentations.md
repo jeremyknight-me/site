@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "SQL Saturday '23 Presentations"
 date: "2023-06-27"  
 tags: 

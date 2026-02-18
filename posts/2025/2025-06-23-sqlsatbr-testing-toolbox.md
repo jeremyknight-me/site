@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "The Developer Testing Toolbox"
 date: "2025-06-23"  
 tags: 

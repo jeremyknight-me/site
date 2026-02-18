@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "Back to Basics: Unit Testing"
 date: "2022-08-05"
 tags: 

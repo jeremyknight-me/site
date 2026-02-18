@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "Update on ASP.NET Forms Bootstrap Menu Control"
 date: "2017-01-24"  
 tags: 

@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "Testable WebForms with MVP"
 date: "2014-08-02"  
 tags: 

@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "Bootstrap 5 CDN Fallback"
 date: "2021-01-08"  
 tags: 

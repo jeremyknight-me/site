@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "Hosting AI at Home with Ollama"
 date: "2025-06-27"  
 tags: 

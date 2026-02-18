@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "C# Syntax Lowering"
 date: "2024-05-24"  
 tags: 

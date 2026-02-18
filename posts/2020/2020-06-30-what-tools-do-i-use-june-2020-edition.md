@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "What Tools Do I Use? June 2020 Edition"
 date: "2020-06-30"
 tags: 

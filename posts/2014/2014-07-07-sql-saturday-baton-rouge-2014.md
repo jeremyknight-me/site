@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "SQL Saturday Baton Rouge 2014"
 date: "2014-07-07"  
 tags: 

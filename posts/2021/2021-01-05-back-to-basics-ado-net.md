@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "Back to Basics: ADO.NET"
 date: "2021-01-05"
 tags: 

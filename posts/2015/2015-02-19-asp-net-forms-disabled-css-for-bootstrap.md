@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "ASP.NET Forms Disabled CSS for BootStrap"
 date: "2015-02-19"  
 tags: 

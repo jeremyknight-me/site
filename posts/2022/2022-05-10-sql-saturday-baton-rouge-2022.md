@@ -1,5 +1,4 @@
 ---
-layout: layouts/post.njk
 title: "SQL Saturday Baton Rouge 2022"
 date: "2022-05-10"  
 tags: 
