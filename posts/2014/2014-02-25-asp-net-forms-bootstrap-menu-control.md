@@ -1,6 +1,7 @@
 ---
 title: "ASP.NET Forms Bootstrap Menu Control"
-date: "2014-02-25"  
+date: "2014-02-25"
+redirect_from: '/posts/2014/2014-02-25-asp-net-forms-bootstrap-menu-control'
 tags: 
   - "development"
   - "dotnet"

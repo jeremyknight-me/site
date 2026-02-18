@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 title: "March 2013 Nicholls Presentation"
-date: "2013-03-27"  
+date: "2013-03-27"
+redirect_from: '/posts/2013/2013-03-27-march-2013-nicholls-presentation'
 tags: 
   - "dotnet"
   - "aspnet"

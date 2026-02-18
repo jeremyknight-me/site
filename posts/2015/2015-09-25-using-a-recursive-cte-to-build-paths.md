@@ -1,6 +1,7 @@
 ---
 title: "Using a Recursive CTE to Build Paths"
-date: "2015-09-25"  
+date: "2015-09-25"
+redirect_from: '/posts/2015/2015-09-25-using-a-recursive-cte-to-build-paths'
 tags: 
   - "code"
   - "development"

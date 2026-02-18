@@ -1,6 +1,7 @@
 ---
 title: "SQL Saturday Baton Rouge 2022"
-date: "2022-05-10"  
+date: "2022-05-10"
+redirect_from: '/posts/2022/2022-05-10-sql-saturday-baton-rouge-2022'
 tags: 
   - "baton-rouge"
   - "community-events"

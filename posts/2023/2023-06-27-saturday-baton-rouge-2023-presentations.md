@@ -1,6 +1,7 @@
 ---
 title: "SQL Saturday '23 Presentations"
-date: "2023-06-27"  
+date: "2023-06-27"
+redirect_from: '/posts/2023/2023-06-27-saturday-baton-rouge-2023-presentations'
 tags: 
   - "baton-rouge"
   - "community-events"

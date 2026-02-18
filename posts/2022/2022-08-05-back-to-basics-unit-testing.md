@@ -1,6 +1,7 @@
 ---
 title: "Back to Basics: Unit Testing"
 date: "2022-08-05"
+redirect_from: '/posts/2022/2022-08-05-back-to-basics-unit-testing'
 tags: 
   - "dotnet"
   - "unit-testing"

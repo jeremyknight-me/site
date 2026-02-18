@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 title: "Wireless Security Tip: Don't Connect Automatically"
-date: "2013-02-12"  
+date: "2013-02-12"
+redirect_from: '/posts/2013/2013-02-12-wireless-security-tip-dont-connect-automatically'
 tags: 
   - "personal-computing"
   - "security"

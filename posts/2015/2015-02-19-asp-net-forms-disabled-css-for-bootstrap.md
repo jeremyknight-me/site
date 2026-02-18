@@ -1,6 +1,7 @@
 ---
 title: "ASP.NET Forms Disabled CSS for BootStrap"
-date: "2015-02-19"  
+date: "2015-02-19"
+redirect_from: '/posts/2015/2015-02-19-asp-net-forms-disabled-css-for-bootstrap'
 tags: 
   - "aspnet"
   - "bootstrap"

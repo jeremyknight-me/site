@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: "2012 Baton Rouge SQL Saturday & Tech Day"
 date: "2012-04-18"
+redirect_from: '/posts/2012/2012-04-18-2012-baton-rouge-sql-saturday-tech-day'
 categories: 
   
 tags: 

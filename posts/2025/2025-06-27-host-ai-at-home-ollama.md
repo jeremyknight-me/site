@@ -1,6 +1,7 @@
 ---
 title: "Hosting AI at Home with Ollama"
 date: "2025-06-27"  
+redirect_from: '/posts/2025/2025-06-27-host-ai-at-home-ollama'
 tags: 
   - "ai"
   - "homelab"

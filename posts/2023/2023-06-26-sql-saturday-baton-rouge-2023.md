@@ -1,6 +1,7 @@
 ---
 title: "SQL Saturday Baton Rouge 2023"
-date: "2023-06-26"  
+date: "2023-06-26"
+redirect_from: '/posts/2023/2023-06-26-sql-saturday-baton-rouge-2023'
 tags: 
   - "baton-rouge"
   - "community-events"

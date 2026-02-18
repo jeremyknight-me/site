@@ -1,6 +1,7 @@
 ---
 title: "Testing In-Depth"
-date: "2024-07-27"  
+date: "2024-07-27"
+redirect_from: '/posts/2024/2024-07-27-sqlsatbr-testing-in-depth'
 tags: 
   - "baton-rouge"
   - "community-events"

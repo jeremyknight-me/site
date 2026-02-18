@@ -1,6 +1,7 @@
 ---
 title: "ASP.NET Membership Log Out"
 date: "2015-01-30"
+redirect_from: '/posts/2015/2015-01-30-asp-net-membership-log-out'
 tags: 
   - "development"
   - "dotnet"

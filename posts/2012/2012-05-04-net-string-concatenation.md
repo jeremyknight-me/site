@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 title: ".NET String Concatenation"
-date: "2012-05-04"  
+date: "2012-05-04"
+redirect_from: '/posts/2012/2012-05-04-net-string-concatenation'
 tags: 
   - "code"
   - "development"

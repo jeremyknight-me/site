@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: "What Tools Do I Use? Oct 2013 Edition"
 date: "2013-10-10"
+redirect_from: '/posts/2013/2013-10-10-what-tools-do-i-use'
 tags: 
   - "productivity"
   - "tools"

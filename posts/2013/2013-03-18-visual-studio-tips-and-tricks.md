@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: "Visual Studio Tips and Tricks"
 date: "2013-03-18"
+redirect_from: '/posts/2013/2013-03-18-visual-studio-tips-and-tricks'
 tags: 
   - "development"
   - "microsoft"

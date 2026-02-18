@@ -1,6 +1,7 @@
 ---
 title: "Testable WebForms with MVP"
-date: "2014-08-02"  
+date: "2014-08-02"
+redirect_from: '/posts/2014/2014-08-02-testable-webforms-with-mvp'
 tags: 
   - "aspnet"
   - "baton-rouge"

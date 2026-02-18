@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 title: "Visual Studio Tips and Tricks: Debugging"
-date: "2013-04-01"  
+date: "2013-04-01"
+redirect_from: '/posts/2013/2013-04-01-visual-studio-tips-and-tricks-debugging'
 tags: 
   - "dotnet"
   - "debug"
