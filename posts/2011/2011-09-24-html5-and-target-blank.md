@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "HTML5 and target=\"_blank\""
-date: "2011-09-24"  
+date: "2011-09-24"
+redirect_from: '/posts/2011/2011-09-24-html5-and-target-blank'
 tags: 
   - "development"
   - "html"

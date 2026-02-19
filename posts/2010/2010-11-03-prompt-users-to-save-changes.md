@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Prompt Users to Save Changes"
 date: "2010-11-03"
+redirect_from: '/posts/2010/2010-11-03-prompt-users-to-save-changes'
 tags: 
   - "code"
   - "development"

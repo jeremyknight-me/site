@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "jQuery XHTML Strict Target=\"_blank\" Solution"
 date: "2010-11-27"
+redirect_from: '/posts/2010/2010-11-27-jquery-xhtml-strict-target-blank-solution'
 tags: 
   - "code"
   - "development"

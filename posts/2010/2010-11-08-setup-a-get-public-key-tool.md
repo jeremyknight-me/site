@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Setup a 'Get Public Key' Tool"
 date: "2010-11-08"
+redirect_from: '/posts/2010/2010-11-08-setup-a-get-public-key-tool'
 tags: 
   - "development"
   - "microsoft"

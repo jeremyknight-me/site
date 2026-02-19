@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Programmatically Update Web Part Properties"
 date: "2010-11-13"
+redirect_from: '/posts/2010/2010-11-13-programmatically-update-web-part-properties'
 tags: 
   - "development"
   - "dotnet"

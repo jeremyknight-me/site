@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Get a String from a MemoryStream"
 date: "2011-09-09"
+redirect_from: '/posts/2011/2011-09-09-get-a-string-from-a-memorystream'
 tags: 
   - "development"
   - "dotnet"

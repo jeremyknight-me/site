@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "T-SQL String Padding Functions"
 date: "2009-06-10"
+redirect_from: '/posts/2009/2009-06-10-t-sql-string-padding-functions'
 tags: 
   - "code"
   - "database"

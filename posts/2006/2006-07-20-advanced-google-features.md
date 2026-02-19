@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Advanced Google Features"
 date: "2006-07-20"
+redirect_from: '/posts/2006/2006-07-20-advanced-google-features'
 tags: 
   - "google"
   - "personal-computing"

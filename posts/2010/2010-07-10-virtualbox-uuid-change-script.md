@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "VirtualBox UUID Change Script"
 date: "2010-07-10"
+redirect_from: '/posts/2010/2010-07-10-virtualbox-uuid-change-script'
 tags: 
   - "personal-computing"
   - "virtualization"

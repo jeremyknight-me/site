@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Programmer Personality Test"
 date: "2007-03-01"
+redirect_from: '/posts/2007/2007-03-01-programmer-personality-test'
 tags: 
   - "humor"
 ---

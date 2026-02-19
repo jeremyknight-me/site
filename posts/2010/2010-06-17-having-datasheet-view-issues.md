@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Having Datasheet View Issues?"
 date: "2010-06-17"
+redirect_from: '/posts/2010/2010-06-17-having-datasheet-view-issues'
 tags: 
   - "development"
   - "microsoft"

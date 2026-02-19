@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "SharePoint Web Part Maintenance Page"
 date: "2010-07-28"
+redirect_from: '/posts/2010/2010-07-28-sharepoint-web-part-maintenance-page'
 tags: 
   - "development"
   - "sharepoint"

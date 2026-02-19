@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "iPod Battery Not Holding a Charge?"
 date: "2006-08-27"
+redirect_from: '/posts/2006/2006-08-27-ipod-battery-not-holding-a-charge'
 tags: 
   - "hardware"
   - "personal-computing"

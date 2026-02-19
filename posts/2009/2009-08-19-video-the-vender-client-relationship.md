@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Video: The Vender Client Relationship"
 date: "2009-08-19"
+redirect_from: '/posts/2009/2009-08-19-video-the-vender-client-relationship'
 tags: 
   - "humor"
   - "video"

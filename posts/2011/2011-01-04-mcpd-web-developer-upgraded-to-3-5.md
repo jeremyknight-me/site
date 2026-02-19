@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "MCPD Web Developer Upgraded to 3.5"
 date: "2011-01-04"
+redirect_from: '/posts/2011/2011-01-04-mcpd-web-developer-upgraded-to-3-5'
 tags: 
   - "dotnet"
   - "aspnet"

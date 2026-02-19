@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Null Coalescing Operator"
-date: "2011-10-27"  
+date: "2011-10-27"
+redirect_from: '/posts/2011/2011-10-27-null-coalescing-operator'
 tags: 
   - "code"
   - "development"

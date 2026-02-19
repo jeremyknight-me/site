@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Video: n00b Boyfriend"
 date: "2009-08-15"
+redirect_from: '/posts/2009/2009-08-15-video-n00b-boyfriend'
 tags: 
   - "humor"
   - "video"

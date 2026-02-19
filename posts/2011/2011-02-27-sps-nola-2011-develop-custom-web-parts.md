@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Developing Custom SharePoint Web Parts"
 date: "2011-02-27"
+redirect_from: '/posts/2011/2011-02-27-sps-nola-2011-develop-custom-web-parts'
 tags: 
   - "aspnet"
   - "community-events"

@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "SP 2010 Site Collection PowerShell Script"
-date: "2011-06-10"  
+date: "2011-06-10"
+redirect_from: '/posts/2011/2011-06-10-sp-2010-site-collection-powershell-script'
 tags: 
   - "code"
   - "database"

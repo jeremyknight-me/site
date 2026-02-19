@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "First MS Cert"
 date: "2008-01-27"
+redirect_from: '/posts/2008/2008-01-27-first-ms-cert'
 tags: 
   - "aspnet"
   - "certifications"

@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "SharePoint Web Part XML Properties"
 date: "2010-11-24"
+redirect_from: '/posts/2010/2010-11-24-sharepoint-web-part-xml-properties'
 tags: 
   - "development"
   - "sharepoint"

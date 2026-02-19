@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Browser List Form Editing"
 date: "2010-06-24"
+redirect_from: '/posts/2010/2010-06-24-browser-list-form-editing'
 tags: 
   - "development"
   - "form"

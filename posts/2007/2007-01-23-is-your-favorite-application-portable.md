@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Is your favorite application portable?"
 date: "2007-01-23"
+redirect_from: '/posts/2007/2007-01-23-is-your-favorite-application-portable'
 tags: 
   - "personal-computing"
   - "review"

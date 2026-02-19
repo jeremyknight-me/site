@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Video: Coder Girl"
 date: "2009-08-15"
+redirect_from: '/posts/2009/2009-08-15-video-coder-girl'
 tags: 
   - "humor"
   - "video"

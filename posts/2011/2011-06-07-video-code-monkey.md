@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Video: Code Monkey"
 date: "2011-06-07"
+redirect_from: '/posts/2011/2011-06-07-video-code-monkey'
 tags: 
   - "video"
 ---

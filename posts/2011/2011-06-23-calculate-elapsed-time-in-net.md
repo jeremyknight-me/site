@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Calculate Elapsed Time in .NET"
-date: "2011-06-23"  
+date: "2011-06-23"
+redirect_from: '/posts/2011/2011-06-23-calculate-elapsed-time-in-net'
 tags: 
   - "development"
   - "dotnet"
