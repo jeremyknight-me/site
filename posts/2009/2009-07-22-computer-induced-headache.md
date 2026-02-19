@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Computer Induced Headache"
 date: "2009-07-22"
+redirect_from: '/posts/2009/2009-07-22-computer-induced-headache'
 tags: 
   - "computer"
   - "hardware"

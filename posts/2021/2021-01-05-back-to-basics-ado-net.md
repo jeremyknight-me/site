@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Back to Basics: ADO.NET"
 date: "2021-01-05"
+redirect_from: '/posts/2021/2021-01-05-back-to-basics-ado-net'
 tags: 
   - "dotnet"
   - "ado-net"

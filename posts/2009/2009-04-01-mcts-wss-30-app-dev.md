@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "MCTS WSS 3.0 App Dev"
 date: "2009-04-01"
+redirect_from: '/posts/2009/2009-04-01-mcts-wss-30-app-dev'
 tags: 
   - "certifications"
   - "microsoft"

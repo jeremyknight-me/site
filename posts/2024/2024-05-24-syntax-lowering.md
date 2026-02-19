@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "C# Syntax Lowering"
-date: "2024-05-24"  
+date: "2024-05-24"
+redirect_from: '/posts/2024/2024-05-24-syntax-lowering'
 tags: 
   - "dotnet"
   - "code"

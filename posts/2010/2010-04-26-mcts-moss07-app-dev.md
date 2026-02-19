@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "MCTS: MOSS 2007 Application Development"
 date: "2010-04-26"
+redirect_from: '/posts/2010/2010-04-26-mcts-moss07-app-dev'
 tags: 
   - "certifications"
   - "microsoft"

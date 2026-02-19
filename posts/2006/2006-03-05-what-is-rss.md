@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "What is RSS?"
 date: "2006-03-05"
+redirect_from: '/posts/2006/2006-03-05-what-is-rss'
 tags: 
   - "personal-computing"
 ---

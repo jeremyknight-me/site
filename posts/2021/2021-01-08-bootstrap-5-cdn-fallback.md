@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Bootstrap 5 CDN Fallback"
-date: "2021-01-08"  
+date: "2021-01-08"
+redirect_from: '/posts/2021/2021-01-08-bootstrap-5-cdn-fallback'
 tags: 
   - "bootstrap"
   - "development"

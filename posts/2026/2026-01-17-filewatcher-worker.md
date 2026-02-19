@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "FileSystemWatcher and .NET Workers"
 date: "2026-01-17"  
+redirect_from: '/posts/2026/2026-01-17-filewatcher-worker'
 tags: 
   - "development"
   - "dotnet"

@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Article: 10 Steps to Better SharePoint Development"
 date: "2010-10-21"
+redirect_from: '/posts/2010/2010-10-21-article-10-steps-to-better-sharepoint-development'
 tags: 
   - "development"
   - "dotnet"

@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 title: "Lazy Strategy Pattern"
-date: "2013-05-02"  
+date: "2013-05-02"
+redirect_from: '/posts/2013/2013-05-02-lazy-strategy-pattern'
 tags: 
   - "development"
   - "dotnet"

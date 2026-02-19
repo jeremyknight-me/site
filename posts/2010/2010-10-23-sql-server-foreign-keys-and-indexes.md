@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "SQL Server Foreign Keys and Indexes"
 date: "2010-10-23"
+redirect_from: '/posts/2010/2010-10-23-sql-server-foreign-keys-and-indexes'
 tags: 
   - "database"
   - "development"

@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "November 11th Speaking Engagement"
 date: "2010-10-25"
+redirect_from: '/posts/2010/2010-10-25-nov-11-speaking-engagemen'
 tags: 
   - "new-orleans"
   - "presentations"

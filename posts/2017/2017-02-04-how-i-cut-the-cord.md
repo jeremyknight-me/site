@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "How I Cut the Cord"
-date: "2017-02-04"  
+date: "2017-02-04"
+redirect_from: '/posts/2017/2017-02-04-how-i-cut-the-cord'
 tags: 
   - "hardware"
   - "personal-computing"

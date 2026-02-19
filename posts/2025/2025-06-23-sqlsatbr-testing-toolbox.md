@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "The Developer Testing Toolbox"
-date: "2025-06-23"  
+date: "2025-06-23"
+redirect_from: '/posts/2025/2025-06-23-sqlsatbr-testing-toolbox'
 tags: 
   - "baton-rouge"
   - "community-events"

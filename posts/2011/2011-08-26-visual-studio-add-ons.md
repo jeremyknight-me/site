@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Visual Studio Add-ons"
 date: "2011-08-26"
+redirect_from: '/posts/2011/2011-08-26-visual-studio-add-ons'
 tags: 
   - "development"
   - "extension"

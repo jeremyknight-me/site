@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Update on ASP.NET Forms Bootstrap Menu Control"
-date: "2017-01-24"  
+date: "2017-01-24"
+redirect_from: '/posts/2017/2017-01-24-update-on-asp-net-forms-bootstrap-menu-control'
 tags: 
   - "development"
   - "dotnet"

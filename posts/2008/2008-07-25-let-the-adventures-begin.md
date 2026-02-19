@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Let the adventures begin!"
 date: "2008-07-25"
+redirect_from: '/posts/2008/2008-07-25-let-the-adventures-begin'
 tags: 
   - "development"
   - "microsoft"

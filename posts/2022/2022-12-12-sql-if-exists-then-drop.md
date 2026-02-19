@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "SQL If Exists Then Drop (Updated)"
-date: "2022-12-12"  
+date: "2022-12-12"
+redirect_from: '/posts/2022/2022-12-12-sql-if-exists-then-drop'
 tags: 
   - "code"
   - "database"

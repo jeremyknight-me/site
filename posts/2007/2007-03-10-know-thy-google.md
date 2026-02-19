@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Know thy Google!"
 date: "2007-03-10"
+redirect_from: '/posts/2007/2007-03-10-know-thy-google'
 tags: 
   - "google"
   - "personal-computing"

@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "SQL Saturday Baton Rouge 2014"
-date: "2014-07-07"  
+date: "2014-07-07"
+redirect_from: '/posts/2014/2014-07-07-sql-saturday-baton-rouge-2014'
 tags: 
   - "baton-rouge"
   - "community-events"

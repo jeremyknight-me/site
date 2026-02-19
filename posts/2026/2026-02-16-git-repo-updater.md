@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Git Repo Updates Made Simple"
 date: "2026-02-16"  
+redirect_from: '/posts/2026/2026-02-16-git-repo-updater'
 tags: 
   - "git"
   - "powershell"

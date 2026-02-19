@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 title: "A Simple CSV Export?"
-date: "2013-02-14"  
+date: "2013-02-14"
+redirect_from: '/posts/2013/2013-02-14-a-simple-csv-export'
 tags: 
   - "development"
   - "software"

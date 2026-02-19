@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Uncle Bob on Professional Software Development"
-date: "2014-02-10"  
+date: "2014-02-10"
+redirect_from: '/posts/2014/2014-02-10-uncle-bob-on-professional-software-development'
 tags: 
   - "craftsmanship"
   - "development"

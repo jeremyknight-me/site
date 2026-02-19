@@ -1,10 +1,11 @@
 ---
-layout: layouts/post.njk
 title: "Video: The Vender Client Relationship"
 date: "2009-08-19"
+redirect_from: '/posts/2009/2009-08-19-video-the-vender-client-relationship'
 tags: 
   - "humor"
   - "video"
+eleventyExcludeFromCollections: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R2a8TRSgzZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

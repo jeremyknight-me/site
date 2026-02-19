@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "What Tools Do I Use? June 2020 Edition"
 date: "2020-06-30"
+redirect_from: '/posts/2020/2020-06-30-what-tools-do-i-use-june-2020-edition'
 tags: 
   - "productivity"
   - "tools"

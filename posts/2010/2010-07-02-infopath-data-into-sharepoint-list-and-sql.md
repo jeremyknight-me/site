@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "InfoPath Data into SharePoint List and SQL"
 date: "2010-07-02"
+redirect_from: '/posts/2010/2010-07-02-infopath-data-into-sharepoint-list-and-sql'
 categories: 
   
 tags: 

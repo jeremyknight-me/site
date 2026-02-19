@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "SQL Last Day of Month"
 date: "2018-04-27"
+redirect_from: '/posts/2018/2018-04-27-sql-last-day-of-month'
 tags: 
   - "code"
   - "development"

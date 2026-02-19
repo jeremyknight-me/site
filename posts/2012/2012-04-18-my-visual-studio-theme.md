@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 title: "My Visual Studio Theme"
-date: "2012-04-18"  
+date: "2012-04-18"
+redirect_from: '/posts/2012/2012-04-18-my-visual-studio-theme'
 tags: 
   - "development"
   - "software"

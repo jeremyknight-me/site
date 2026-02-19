@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Web Parts Presentation Materials"
 date: "2010-11-12"
+redirect_from: '/posts/2010/2010-11-12-web-parts-presentation-materials'
 tags: 
   - "aspnet"
   - "presentations"

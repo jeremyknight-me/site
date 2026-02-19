@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Phishing and Pharming, Awareness and Prevention"
 date: "2006-05-05"
+redirect_from: '/posts/2006/2006-05-05-phishing-and-pharming-awareness-and-prevention'
 tags: 
   - "personal-computing"
   - "security"

@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Secure Computing: Up-To-Date Anti-Virus"
 date: "2007-01-16"
+redirect_from: '/posts/2007/2007-01-16-securing-computing-up-to-date-anti-virus'
 tags: 
   - "personal-computing"
   - "security"

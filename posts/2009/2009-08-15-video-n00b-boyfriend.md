@@ -1,10 +1,11 @@
 ---
-layout: layouts/post.njk
 title: "Video: n00b Boyfriend"
 date: "2009-08-15"
+redirect_from: '/posts/2009/2009-08-15-video-n00b-boyfriend'
 tags: 
   - "humor"
   - "video"
+eleventyExcludeFromCollections: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JVfVqfIN8_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

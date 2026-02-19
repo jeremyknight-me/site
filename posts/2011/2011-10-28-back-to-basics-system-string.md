@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Back to Basics: System.String"
 date: "2011-10-28"
+redirect_from: '/posts/2011/2011-10-28-back-to-basics-system-string'
 tags: 
   - "development"
   - "dotnet"

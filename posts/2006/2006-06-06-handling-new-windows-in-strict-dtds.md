@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
 title: "Handling New Windows in Strict DTDs"
 date: "2006-06-06"
+redirect_from: '/posts/2006/2006-06-06-handling-new-windows-in-strict-dtds'
 tags: 
   - "css"
   - "development"
