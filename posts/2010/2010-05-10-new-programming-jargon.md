@@ -4,6 +4,7 @@ date: "2010-05-10"
 redirect_from: '/posts/2010/2010-05-10-new-programming-jargon'
 tags: 
   - "humor"
+eleventyExcludeFromCollections: true
 ---
 
 A coworker pointed me at the following blog post:
